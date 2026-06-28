@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Ergonomic Mouse",
+    "subtitle": "Sleek and durable",
+    "price": 140,
+    "image": "https://i.imgur.com/hx1fE42.png",
+    "description": "A sleek addition to your setup with modern features."
+  },
+  {
+    "id": 2,
+    "title": "Premium Keyboard",
+    "subtitle": "Built for comfort",
+    "price": 231,
+    "image": "https://i.imgur.com/cukszPR.jpeg",
+    "description": "Experience top-tier performance with this advanced design."
+  },
+  {
+    "id": 3,
+    "title": "Wireless Mechanic Keyboard",
+    "subtitle": "Next-gen technology for coding",
+    "price": 135,
+    "image": "https://i.imgur.com/OzeVahp.png",
+    "description": "Experience top-tier performance with this advanced design."
+  },
+  {
+    "id": 4,
+    "title": "Compact Bluetooth Speaker",
+    "subtitle": "Maximum audio performance",
+    "price": 126,
+    "image": "https://i.imgur.com/n55QLmq.png",
+    "description": "Enhance your productivity with this intuitive and reliable tool."
+  },
+  {
+    "id": 5,
+    "title": "Waterproof Charger",
+    "subtitle": "High-quality gear",
+    "price": 99,
+    "image": "https://i.imgur.com/og64PhV.png",
+    "description": "Designed with sustainable materials without compromising quality."
+  },
+  {
+    "id": 6,
+    "title": "Eco-Friendly USB Charger",
+    "subtitle": "Stay connected",
+    "price": 125,
+    "image": "https://i.imgur.com/eglLr7X.jpeg",
+    "description": "Stay ahead with cutting-edge technology and seamless control."
+  },
+  {
+    "id": 7,
+    "title": "Ergonomic Mechanic Keyboard",
+    "subtitle": "Maximum performance for coding",
+    "price": 44,
+    "image": "https://i.imgur.com/4ZICxi3.png",
+    "description": "Stay ahead with cutting-edge technology and seamless control."
+  },
+  {
+    "id": 8,
+    "title": "Eco-Friendly Phone Case",
+    "subtitle": "Sleek and durable",
+    "price": 35,
+    "image": "https://i.imgur.com/LOVYlPv.jpeg",
+    "description": "Enhance your productivity with this intuitive and reliable tool."
+  },
+  {
+    "id": 9,
+    "title": "Compact Keyboard",
+    "subtitle": "Maximum performance",
+    "price": 56,
+    "image": "https://i.imgur.com/tN8XE4G.png",
+    "description": "Lightweight and compact, making it ideal for travel."
+  },
+  {
+    "id": 10,
+    "title": "Waterproof Backpack",
+    "subtitle": "Next-gen technology",
+    "price": 47,
+    "image": "https://i.imgur.com/yC44EwI.png",
+    "description": "Experience top-tier performance with this advanced design."
+  }
+]
