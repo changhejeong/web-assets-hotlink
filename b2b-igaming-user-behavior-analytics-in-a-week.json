@@ -33,7 +33,7 @@
     "date": "2026-06-30",
     "deadTaps": 0.01,
     "rageTaps": 0.01,
-    "quickBounces": 1.6
+    "quickBounces": 0.06
   },
   {
     "date": "2026-07-01",
