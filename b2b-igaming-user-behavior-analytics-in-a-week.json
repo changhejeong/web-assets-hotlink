@@ -31,14 +31,14 @@
   },
   {
     "date": "2026-06-30",
-    "deadTaps": 0.01,
-    "rageTaps": 0.01,
-    "quickBounces": 0.06
+    "deadTaps": 0.33,
+    "rageTaps": 0.11,
+    "quickBounces": 0.36
   },
   {
     "date": "2026-07-01",
-    "deadTaps": 0.26,
-    "rageTaps": 0.63,
-    "quickBounces": 0.22
+    "deadTaps": 0.06,
+    "rageTaps": 0.03,
+    "quickBounces": 0.02
   }
 ]
