@@ -3,49 +3,45 @@
     "date": "2026-06-25",
     "deadTaps": 10.11,
     "rageTaps": 3.11,
-    "excessiveScrollings": 1.04,
-    "quickBacks": 1.4
+    "quickBunces": 1.4
   },
   {
     "date": "2026-06-26",
     "deadTaps": 16.37,
     "rageTaps": 4.22,
-    "excessiveScrollings": 0.3,
-    "quickBacks": 5.1
+    "quickBunces": 5.1
   },
   {
     "date": "2026-06-27",
     "deadTaps": 6.23,
     "rageTaps": 1.63,
-    "excessiveScrollings": 1.4,
-    "quickBacks": 6.3
+    "quickBunces": 6.3
   },
   {
     "date": "2026-06-28",
     "deadTaps": 2.28,
     "rageTaps": 4.6,
-    "excessiveScrollings": 3.2,
-    "quickBacks": 2.2
+    "quickBunces": 2.2
   },
   {
     "date": "2026-06-29",
     "deadTaps": 5.7,
     "rageTaps": 0.45,
-    "excessiveScrollings": 0.27,
-    "quickBacks": 0.21
+    "": 0.27,
+    "quickBunces": 0.21
   },
   {
     "date": "2026-06-30",
     "deadTaps": 11.6,
     "rageTaps": 3.22,
-    "excessiveScrollings": 1.57,
-    "quickBacks": 2.6
+    "": 1.57,
+    "quickBunces": 2.6
   },
   {
     "date": "2026-07-01",
     "deadTaps": 5.26,
     "rageTaps": 1.63,
-    "excessiveScrollings": 0.06,
-    "quickBacks": 0.22
+    "": 0.06,
+    "quickBunces": 0.22
   }
 ]
