@@ -3,45 +3,45 @@
     "date": "2026-06-25",
     "deadTaps": 10.11,
     "rageTaps": 3.11,
-    "quickBunces": 1.4
+    "quickBounces": 1.4
   },
   {
     "date": "2026-06-26",
     "deadTaps": 16.37,
     "rageTaps": 4.22,
-    "quickBunces": 5.1
+    "quickBounces": 5.1
   },
   {
     "date": "2026-06-27",
     "deadTaps": 6.23,
     "rageTaps": 1.63,
-    "quickBunces": 6.3
+    "quickBounces": 6.3
   },
   {
     "date": "2026-06-28",
     "deadTaps": 2.28,
     "rageTaps": 4.6,
-    "quickBunces": 2.2
+    "quickBounces": 2.2
   },
   {
     "date": "2026-06-29",
     "deadTaps": 1.7,
     "rageTaps": 0.45,
     "": 0.27,
-    "quickBunces": 0.21
+    "quickBounces": 0.21
   },
   {
     "date": "2026-06-30",
     "deadTaps": 0.01,
     "rageTaps": 0.22,
     "": 1.57,
-    "quickBunces": 2.6
+    "quickBounces": 1.6
   },
   {
     "date": "2026-07-01",
     "deadTaps": 0.26,
     "rageTaps": 0.63,
     "": 0.06,
-    "quickBunces": 0.22
+    "quickBounces": 0.22
   }
 ]
