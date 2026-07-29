@@ -27,21 +27,18 @@
     "date": "2026-06-29",
     "deadTaps": 1.7,
     "rageTaps": 0.45,
-    "": 0.27,
     "quickBounces": 0.21
   },
   {
     "date": "2026-06-30",
     "deadTaps": 0.01,
     "rageTaps": 0.22,
-    "": 1.57,
     "quickBounces": 1.6
   },
   {
     "date": "2026-07-01",
     "deadTaps": 0.26,
     "rageTaps": 0.63,
-    "": 0.06,
     "quickBounces": 0.22
   }
 ]
