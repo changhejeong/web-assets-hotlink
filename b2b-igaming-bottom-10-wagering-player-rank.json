@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Ava Jackson",
+    "quantity": 4.26
+  },
+  {
+    "id": 2,
+    "name": "Lucia Reynolds",
+    "quantity": 8.83
+  },
+  {
+    "id": 3,
+    "name": "Shizuka Natsumoto",
+    "quantity": 15.71
+  },
+  {
+    "id": 4,
+    "name": "Nancy Harper",
+    "quantity": 23.29
+  },
+  {
+    "id": 5,
+    "name": "Lucas Nguyen",
+    "quantity": 46.55
+  },
+  {
+    "id": 6,
+    "name": "Rebecca Patel",
+    "quantity": 52.96
+  },
+  {
+    "id": 7,
+    "name": "Olivia Kim",
+    "quantity": 57.68
+  },
+  {
+    "id": 8,
+    "name": "Mia Sullivan",
+    "quantity": 73.40
+  },
+  {
+    "id": 9,
+    "name": "Sophia Martinez",
+    "quantity": 94.17
+  },
+  {
+    "id": 10,
+    "name": "Sam Stewart",
+    "quantity": 123.35
+  }
+]
