@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Greeting Message",
+    "content": "<div class=\"flex flex-wrap gap-1\"><div class=\"bg-orange-100 font-semibold text-xl text-blue-500 p-2\">Hello</div><div class=\"bg-yellow-100 font-semibold text-xl text-violet-500 p-2\">f**king</div><div class=\"bg-gray-100 font-semibold text-xl text-fuchsia-500 p-2\">world</div></div>"
+  },
+  {
+    "id": 2,
+    "title": "Welcome Statement",
+    "content": "<div class=\"flex flex-wrap gap-1\"><div class=\"bg-orange-100 font-medium text-xl text-blue-500 p-2\">Wecome</div><div class=\"bg-yellow-100 font-medium text-xl text-violet-500 p-2\">to</div><div class=\"bg-gray-100 font-medium text-xl text-fuchsia-500 p-2\">the</div><div class=\"bg-cyan-100 font-medium text-xl text-red-500 p-2\">real</div><div class=\"bg-zinc-100 font-medium text-xl text-emerald-500 p-2\">world</div></div>"
+  },
+  {
+    "id": 3,
+    "title": "Unbeatable Declaration",
+    "content": "<div class=\"flex flex-wrap gap-1\"><div class=\"bg-blue-100 font-medium text-xl text-green-500 p-2\">No</div><div class=\"bg-fuchsia-100 font-medium text-xl text-orange-500 p-2\">one</div><div class=\"bg-zinc-100 font-medium text-xl text-indigo-500 p-2\">can</div><div class=\"bg-cyan-100 font-medium text-xl text-red-500 p-2\">ever</div><div class=\"bg-zinc-100 font-medium text-xl text-emerald-500 p-2\">beat</div><div class=\"bg-amber-100 font-medium text-xl text-gray-500 p-2\">me</div></div>"
+  },
+  {
+    "id": 4,
+    "title": "Challenge Request",
+    "content": "<div class=\"flex flex-wrap gap-1\"><div class=\"bg-amber-100 font-medium text-xl text-purple-500 p-2\">Just</div><div class=\"bg-pink-100 font-medium text-xl text-red-500 p-2\">bring</div><div class=\"bg-slate-100 font-medium text-xl text-cyan-500 p-2\">them</div><div class=\"bg-green-100 font-medium text-xl text-blue-500 p-2\">one</div></div>"
+  },
+  {
+    "id": 5,
+    "title": "Daring Invitation",
+    "content": "<div class=\"flex flex-wrap gap-1\"><div class=\"bg-pink-100 font-medium text-xl text-violet-500 p-2\">If</div><div class=\"bg-yellow-100 font-medium text-xl text-cyan-500 p-2\">you</div><div class=\"bg-slate-100 font-medium text-xl text-cyan-500 p-2\">dare</div></div>"
+  }
+]
