@@ -1,44 +1,254 @@
-[
-  {
-    "date": "2026-06-25",
-    "deadTaps": 10.11,
-    "rageTaps": 3.11,
-    "quickBounces": 1.4
-  },
-  {
-    "date": "2026-06-26",
-    "deadTaps": 16.37,
-    "rageTaps": 4.22,
-    "quickBounces": 5.1
-  },
-  {
-    "date": "2026-06-27",
-    "deadTaps": 6.23,
-    "rageTaps": 1.63,
-    "quickBounces": 6.3
-  },
-  {
-    "date": "2026-06-28",
-    "deadTaps": 2.28,
-    "rageTaps": 4.6,
-    "quickBounces": 2.2
-  },
-  {
-    "date": "2026-06-29",
-    "deadTaps": 1.7,
-    "rageTaps": 0.45,
-    "quickBounces": 0.21
-  },
-  {
-    "date": "2026-06-30",
-    "deadTaps": 0.33,
-    "rageTaps": 0.11,
-    "quickBounces": 0.36
-  },
-  {
-    "date": "2026-07-01",
-    "deadTaps": 0.06,
-    "rageTaps": 0.03,
-    "quickBounces": 0.02
-  }
-]
+{
+  "leaderboard": [
+    {
+      "id": 1,
+      "name": "Michael Thompson",
+      "winning": 2850000
+    },
+    {
+      "id": 2,
+      "name": "Sarah Lim",
+      "winning": 2640000
+    },
+    {
+      "id": 3,
+      "name": "David Rodriguez",
+      "winning": 2485000
+    },
+    {
+      "id": 4,
+      "name": "Emily Watson",
+      "winning": 2310000
+    },
+    {
+      "id": 5,
+      "name": "James Nagashima",
+      "winning": 2195000
+    },
+    {
+      "id": 6,
+      "name": "Jessica Miller",
+      "winning": 2050000
+    },
+    {
+      "id": 7,
+      "name": "Robert Kim",
+      "winning": 1980000
+    },
+    {
+      "id": 8,
+      "name": "Amanda Foster",
+      "winning": 1875000
+    },
+    {
+      "id": 9,
+      "name": "Christopher Lee",
+      "winning": 1760000
+    },
+    {
+      "id": 10,
+      "name": "Nicole Barnes",
+      "winning": 1685000
+    },
+    {
+      "id": 11,
+      "name": "Daniel Park",
+      "winning": 1590000
+    },
+    {
+      "id": 12,
+      "name": "Rachel Adams",
+      "winning": 1525000
+    },
+    {
+      "id": 13,
+      "name": "Matthew Scott",
+      "winning": 1460000
+    },
+    {
+      "id": 14,
+      "name": "Laura Mitchell",
+      "winning": 1395000
+    },
+    {
+      "id": 15,
+      "name": "Andrew Turner",
+      "winning": 1330000
+    },
+    {
+      "id": 16,
+      "name": "Stephanie Hall",
+      "winning": 1275000
+    },
+    {
+      "id": 17,
+      "name": "Joshua Green",
+      "winning": 1220000
+    },
+    {
+      "id": 18,
+      "name": "Melissa Lau",
+      "winning": 1175000
+    },
+    {
+      "id": 19,
+      "name": "Ryan Cooper",
+      "winning": 1130000
+    },
+    {
+      "id": 20,
+      "name": "Ashley Rivera",
+      "winning": 1085000
+    },
+    {
+      "id": 21,
+      "name": "Brandon Murphy",
+      "winning": 1040000
+    },
+    {
+      "id": 22,
+      "name": "Kimberly Reed",
+      "winning": 998000
+    },
+    {
+      "id": 23,
+      "name": "Justin Bailey",
+      "winning": 956000
+    },
+    {
+      "id": 24,
+      "name": "Megan Howard",
+      "winning": 915000
+    },
+    {
+      "id": 25,
+      "name": "Tyler Ward",
+      "winning": 876000
+    },
+    {
+      "id": 26,
+      "name": "Iris Cox",
+      "winning": 838000
+    },
+    {
+      "id": 27,
+      "name": "Aaron Richardson",
+      "winning": 802000
+    },
+    {
+      "id": 28,
+      "name": "Brittany Wood",
+      "winning": 768000
+    },
+    {
+      "id": 29,
+      "name": "Kevin Watson",
+      "winning": 735000
+    },
+    {
+      "id": 30,
+      "name": "Heather Brooks",
+      "winning": 704000
+    },
+    {
+      "id": 31,
+      "name": "Jason Kelly",
+      "winning": 674000
+    },
+    {
+      "id": 32,
+      "name": "Christina Sanders",
+      "winning": 645000
+    },
+    {
+      "id": 33,
+      "name": "Eric Price",
+      "winning": 618000
+    },
+    {
+      "id": 34,
+      "name": "Vanessa Tan",
+      "winning": 592000
+    },
+    {
+      "id": 35,
+      "name": "Gregory Wood",
+      "winning": 567000
+    },
+    {
+      "id": 36,
+      "name": "Danielle Barnes",
+      "winning": 543000
+    },
+    {
+      "id": 37,
+      "name": "Patrick Ross",
+      "winning": 520000
+    },
+    {
+      "id": 38,
+      "name": "Rebecca Henderson",
+      "winning": 498000
+    },
+    {
+      "id": 39,
+      "name": "Stephen Coleman",
+      "winning": 477000
+    },
+    {
+      "id": 40,
+      "name": "Gary Lua",
+      "winning": 457000
+    },
+    {
+      "id": 41,
+      "name": "Timothy Perry",
+      "winning": 438000
+    },
+    {
+      "id": 42,
+      "name": "Katherine Powell",
+      "winning": 420000
+    },
+    {
+      "id": 43,
+      "name": "Jeffrey Long",
+      "winning": 403000
+    },
+    {
+      "id": 44,
+      "name": "Monica Patterson",
+      "winning": 387000
+    },
+    {
+      "id": 45,
+      "name": "Brian Hughes",
+      "winning": 372000
+    },
+    {
+      "id": 46,
+      "name": "Angela Flores",
+      "winning": 358000
+    },
+    {
+      "id": 47,
+      "name": "Scott Washington",
+      "winning": 345000
+    },
+    {
+      "id": 48,
+      "name": "Tiffany Butler",
+      "winning": 333000
+    },
+    {
+      "id": 49,
+      "name": "Nathan Simmons",
+      "winning": 322000
+    },
+    {
+      "id": 50,
+      "name": "Crystal Foster",
+      "winning": 312000
+    }
+  ]
+}
