@@ -1,0 +1,254 @@
+{
+  "leaderboard": [
+    {
+      "id": 1,
+      "name": "Michael Thompson",
+      "winning_amount_usd": 2850000
+    },
+    {
+      "id": 2,
+      "name": "Sarah Lim",
+      "winning_amount_usd": 2640000
+    },
+    {
+      "id": 3,
+      "name": "David Rodriguez",
+      "winning_amount_usd": 2485000
+    },
+    {
+      "id": 4,
+      "name": "Emily Watson",
+      "winning_amount_usd": 2310000
+    },
+    {
+      "id": 5,
+      "name": "James Nagashima",
+      "winning_amount_usd": 2195000
+    },
+    {
+      "id": 6,
+      "name": "Jessica Miller",
+      "winning_amount_usd": 2050000
+    },
+    {
+      "id": 7,
+      "name": "Robert Kim",
+      "winning_amount_usd": 1980000
+    },
+    {
+      "id": 8,
+      "name": "Amanda Foster",
+      "winning_amount_usd": 1875000
+    },
+    {
+      "id": 9,
+      "name": "Christopher Lee",
+      "winning_amount_usd": 1760000
+    },
+    {
+      "id": 10,
+      "name": "Nicole Barnes",
+      "winning_amount_usd": 1685000
+    },
+    {
+      "id": 11,
+      "name": "Daniel Park",
+      "winning_amount_usd": 1590000
+    },
+    {
+      "id": 12,
+      "name": "Rachel Adams",
+      "winning_amount_usd": 1525000
+    },
+    {
+      "id": 13,
+      "name": "Matthew Scott",
+      "winning_amount_usd": 1460000
+    },
+    {
+      "id": 14,
+      "name": "Laura Mitchell",
+      "winning_amount_usd": 1395000
+    },
+    {
+      "id": 15,
+      "name": "Andrew Turner",
+      "winning_amount_usd": 1330000
+    },
+    {
+      "id": 16,
+      "name": "Stephanie Hall",
+      "winning_amount_usd": 1275000
+    },
+    {
+      "id": 17,
+      "name": "Joshua Green",
+      "winning_amount_usd": 1220000
+    },
+    {
+      "id": 18,
+      "name": "Melissa Lau",
+      "winning_amount_usd": 1175000
+    },
+    {
+      "id": 19,
+      "name": "Ryan Cooper",
+      "winning_amount_usd": 1130000
+    },
+    {
+      "id": 20,
+      "name": "Ashley Rivera",
+      "winning_amount_usd": 1085000
+    },
+    {
+      "id": 21,
+      "name": "Brandon Murphy",
+      "winning_amount_usd": 1040000
+    },
+    {
+      "id": 22,
+      "name": "Kimberly Reed",
+      "winning_amount_usd": 998000
+    },
+    {
+      "id": 23,
+      "name": "Justin Bailey",
+      "winning_amount_usd": 956000
+    },
+    {
+      "id": 24,
+      "name": "Megan Howard",
+      "winning_amount_usd": 915000
+    },
+    {
+      "id": 25,
+      "name": "Tyler Ward",
+      "winning_amount_usd": 876000
+    },
+    {
+      "id": 26,
+      "name": "Iris Cox",
+      "winning_amount_usd": 838000
+    },
+    {
+      "id": 27,
+      "name": "Aaron Richardson",
+      "winning_amount_usd": 802000
+    },
+    {
+      "id": 28,
+      "name": "Brittany Wood",
+      "winning_amount_usd": 768000
+    },
+    {
+      "id": 29,
+      "name": "Kevin Watson",
+      "winning_amount_usd": 735000
+    },
+    {
+      "id": 30,
+      "name": "Heather Brooks",
+      "winning_amount_usd": 704000
+    },
+    {
+      "id": 31,
+      "name": "Jason Kelly",
+      "winning_amount_usd": 674000
+    },
+    {
+      "id": 32,
+      "name": "Christina Sanders",
+      "winning_amount_usd": 645000
+    },
+    {
+      "id": 33,
+      "name": "Eric Price",
+      "winning_amount_usd": 618000
+    },
+    {
+      "id": 34,
+      "name": "Vanessa Tan",
+      "winning_amount_usd": 592000
+    },
+    {
+      "id": 35,
+      "name": "Gregory Wood",
+      "winning_amount_usd": 567000
+    },
+    {
+      "id": 36,
+      "name": "Danielle Barnes",
+      "winning_amount_usd": 543000
+    },
+    {
+      "id": 37,
+      "name": "Patrick Ross",
+      "winning_amount_usd": 520000
+    },
+    {
+      "id": 38,
+      "name": "Rebecca Henderson",
+      "winning_amount_usd": 498000
+    },
+    {
+      "id": 39,
+      "name": "Stephen Coleman",
+      "winning_amount_usd": 477000
+    },
+    {
+      "id": 40,
+      "name": "Gary Lua",
+      "winning_amount_usd": 457000
+    },
+    {
+      "id": 41,
+      "name": "Timothy Perry",
+      "winning_amount_usd": 438000
+    },
+    {
+      "id": 42,
+      "name": "Katherine Powell",
+      "winning_amount_usd": 420000
+    },
+    {
+      "id": 43,
+      "name": "Jeffrey Long",
+      "winning_amount_usd": 403000
+    },
+    {
+      "id": 44,
+      "name": "Monica Patterson",
+      "winning_amount_usd": 387000
+    },
+    {
+      "id": 45,
+      "name": "Brian Hughes",
+      "winning_amount_usd": 372000
+    },
+    {
+      "id": 46,
+      "name": "Angela Flores",
+      "winning_amount_usd": 358000
+    },
+    {
+      "id": 47,
+      "name": "Scott Washington",
+      "winning_amount_usd": 345000
+    },
+    {
+      "id": 48,
+      "name": "Tiffany Butler",
+      "winning_amount_usd": 333000
+    },
+    {
+      "id": 49,
+      "name": "Nathan Simmons",
+      "winning_amount_usd": 322000
+    },
+    {
+      "id": 50,
+      "name": "Crystal Foster",
+      "winning_amount_usd": 312000
+    }
+  ]
+}
