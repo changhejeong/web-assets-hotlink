@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Dumpling Tiger",
+    "category": "Slot",
+    "cover": "https://i.imgur.com/z6ghtJ9.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Thor VIP",
+    "category": "Slot",
+    "cover": "https://i.imgur.com/VfBEEjq.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Ghost Busters",
+    "category": "Fishing",
+    "cover": "https://i.imgur.com/F9TjrL7.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Dragon Fishers",
+    "category": "Fishing",
+    "cover": "https://i.imgur.com/KC18ks4.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "The Pirate Fishers",
+    "category": "Fishing",
+    "cover": "https://i.imgur.com/LkMpEMX.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Dart Expert",
+    "category": "Slot",
+    "cover": "https://i.imgur.com/ZwspzcN.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Borrowing Arrows With Thatched Boats",
+    "category": "Slot",
+    "cover": "https://i.imgur.com/yQSR12t.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Pachinko",
+    "category": "Slot",
+    "cover": "https://i.imgur.com/085uIRf.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Ball Racer",
+    "category": "Racing",
+    "cover": "https://i.imgur.com/k76Vc85.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Little Karts Formula One",
+    "category": "Racing",
+    "cover": "https://i.imgur.com/xUYzhOr.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Tetris Slot",
+    "category": "Slot",
+    "cover": "https://i.imgur.com/pC7dzA9.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Speedy PT Boats",
+    "category": "Racing",
+    "cover": "https://i.imgur.com/Cr3W9Pu.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Chinese Chess",
+    "category": "PvP",
+    "cover": "https://i.imgur.com/W0VPURp.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Japanese Shogi",
+    "category": "PvP",
+    "cover": "https://i.imgur.com/0QzN0cb.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Medieval Chess",
+    "category": "PvP",
+    "cover": "https://i.imgur.com/i1xr6Cv.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Taiwanese Mahjong",
+    "category": "PvP",
+    "cover": "https://i.imgur.com/mL9qpLS.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Hong Kong Mahjong",
+    "category": "PvP",
+    "cover": "https://i.imgur.com/n2hLYNf.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Malaysian Mahjong",
+    "category": "PvP",
+    "cover": "https://i.imgur.com/U0BgGZe.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Candy Rush",
+    "category": "Slot",
+    "cover": "https://i.imgur.com/PcYfqpd.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Real Power Speed",
+    "category": "Racing",
+    "cover": "https://i.imgur.com/RXHaQoe.jpeg"
+  },
+  {
+    "id": 21,
+    "name": "Gate Of Olypmpus",
+    "category": "Slot",
+    "cover": "https://i.imgur.com/Uu6oetL.jpeg"
+  },
+  {
+    "id": 22,
+    "name": "Sweet Bonanza",
+    "category": "Slot",
+    "cover": "https://i.imgur.com/fm5TUKJ.jpeg"
+  },
+  {
+    "id": 23,
+    "name": "Twilight Princess",
+    "category": "Slot",
+    "cover": "https://i.imgur.com/xPOtvND.jpeg"
+  },
+  {
+    "id": 24,
+    "name": "Alient Pyramid",
+    "category": "Slot",
+    "cover": "https://i.imgur.com/QjpmN10.jpeg"
+  },
+  {
+    "id": 25,
+    "name": "Gods Speed",
+    "category": "Racing",
+    "cover": "https://i.imgur.com/vyi8O10.jpeg"
+  },
+  {
+    "id": 26,
+    "name": "Knights Speed",
+    "category": "Racing",
+    "cover": "https://i.imgur.com/Kpu63hS.jpeg"
+  },
+  {
+    "id": 27,
+    "name": "Desert Fisher",
+    "category": "Fishing",
+    "cover": "https://i.imgur.com/nUTyXHS.jpeg"
+  },
+  {
+    "id": 28,
+    "name": "Fruits Party",
+    "category": "Fishing",
+    "cover": "https://i.imgur.com/zvTo8Mv.jpeg"
+  },
+  {
+    "id": 29,
+    "name": "Go Sage",
+    "category": "PvP",
+    "cover": "https://i.imgur.com/L4Sizo3.jpeg"
+  },
+  {
+    "id": 30,
+    "name": "Phoenix Hunting",
+    "category": "Fishing",
+    "cover": "https://i.imgur.com/sUacz2z.jpeg"
+  }
+]
