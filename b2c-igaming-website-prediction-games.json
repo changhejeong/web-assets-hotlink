@@ -1,0 +1,2674 @@
+[
+  {
+    "id": 1,
+    "title": "Which political party will secure the White House in the 2028 United States Presidential Election?",
+    "category": "Politics",
+    "resultRevealDate": "2028-11-08",
+    "option": [
+      {
+        "id": 1,
+        "title": "Democratic Party",
+        "betting": 1450000,
+        "odds": 1.95
+      },
+      {
+        "id": 2,
+        "title": "Republican Party",
+        "betting": 1380000,
+        "odds": 1.90
+      },
+      {
+        "id": 3,
+        "title": "Independent / Third Party",
+        "betting": 95000,
+        "odds": 18.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Predict the majority outcome of the next UK General Election.",
+    "category": "Politics",
+    "resultRevealDate": "2029-01-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "Labour Party Majority",
+        "betting": 820000,
+        "odds": 2.10
+      },
+      {
+        "id": 2,
+        "title": "Conservative Party Majority",
+        "betting": 610000,
+        "odds": 2.80
+      },
+      {
+        "id": 3,
+        "title": "Hung Parliament",
+        "betting": 450000,
+        "odds": 3.20
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Which political alignment combination will advance to the second round of the French presidential election?",
+    "category": "Politics",
+    "resultRevealDate": "2027-04-26",
+    "option": [
+      {
+        "id": 1,
+        "title": "Centrist Coalition vs Far-Right",
+        "betting": 750000,
+        "odds": 1.80
+      },
+      {
+        "id": 2,
+        "title": "Left Coalition vs Far-Right",
+        "betting": 510000,
+        "odds": 2.60
+      },
+      {
+        "id": 3,
+        "title": "Centrist Coalition vs Left Coalition",
+        "betting": 320000,
+        "odds": 4.50
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Will the UN General Assembly approve adding new permanent members to the Security Council before Dec 31, 2028?",
+    "category": "Politics",
+    "resultRevealDate": "2028-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Yes",
+        "betting": 210000,
+        "odds": 4.20
+      },
+      {
+        "id": 2,
+        "title": "No",
+        "betting": 890000,
+        "odds": 1.22
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Which alliance will form the next federal government in Germany?",
+    "category": "Politics",
+    "resultRevealDate": "2029-10-30",
+    "option": [
+      {
+        "id": 1,
+        "title": "CDU/CSU Led Coalition",
+        "betting": 930000,
+        "odds": 1.65
+      },
+      {
+        "id": 2,
+        "title": "SPD Led Coalition",
+        "betting": 410000,
+        "odds": 3.10
+      },
+      {
+        "id": 3,
+        "title": "Greens Led Coalition",
+        "betting": 180000,
+        "odds": 7.50
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Who will be sworn in as Prime Minister following the next Canadian federal election?",
+    "category": "Politics",
+    "resultRevealDate": "2026-11-01",
+    "option": [
+      {
+        "id": 1,
+        "title": "Conservative Leader",
+        "betting": 1100000,
+        "odds": 1.45
+      },
+      {
+        "id": 2,
+        "title": "Liberal Leader",
+        "betting": 620000,
+        "odds": 2.75
+      },
+      {
+        "id": 3,
+        "title": "NDP Leader",
+        "betting": 85000,
+        "odds": 12.00
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Which party will hold the Prime Minister post in Japan by Q4 2027?",
+    "category": "Politics",
+    "resultRevealDate": "2027-12-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "Liberal Democratic Party (LDP)",
+        "betting": 870000,
+        "odds": 1.35
+      },
+      {
+        "id": 2,
+        "title": "Constitutional Democratic Party (CDP)",
+        "betting": 340000,
+        "odds": 3.80
+      },
+      {
+        "id": 3,
+        "title": "Opposition Coalition Candidate",
+        "betting": 190000,
+        "odds": 5.50
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Will China successfully annex to Taiwan by force before the end of 2027?",
+    "category": "Politics",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Yes",
+        "betting": 680000,
+        "odds": 2.10
+      },
+      {
+        "id": 2,
+        "title": "No",
+        "betting": 760000,
+        "odds": 1.75
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Which party group will win the largest number of seats in the next European Parliament election?",
+    "category": "Politics",
+    "resultRevealDate": "2029-06-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "European People's Party (EPP)",
+        "betting": 790000,
+        "odds": 1.50
+      },
+      {
+        "id": 2,
+        "title": "Progressive Alliance of Socialists and Democrats (S&D)",
+        "betting": 420000,
+        "odds": 2.90
+      },
+      {
+        "id": 3,
+        "title": "Right-Wing Sovereignist Bloc",
+        "betting": 310000,
+        "odds": 4.10
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "What will be declared as the principal initiative of the 2027 G7 Leaders' Communiqué?",
+    "category": "Politics",
+    "resultRevealDate": "2027-07-01",
+    "option": [
+      {
+        "id": 1,
+        "title": "Global AI Safety Governance Framework",
+        "betting": 560000,
+        "odds": 2.20
+      },
+      {
+        "id": 2,
+        "title": "Climate & Clean Energy Infrastructure",
+        "betting": 480000,
+        "odds": 2.50
+      },
+      {
+        "id": 3,
+        "title": "Defense & Critical Supply Chain Security",
+        "betting": 390000,
+        "odds": 3.10
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "What will be the upper bound of the Federal Funds Rate by December 31, 2026?",
+    "category": "Economy",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Below 3.50%",
+        "betting": 730000,
+        "odds": 2.40
+      },
+      {
+        "id": 2,
+        "title": "3.50% to 4.25%",
+        "betting": 1150000,
+        "odds": 1.60
+      },
+      {
+        "id": 3,
+        "title": "Above 4.25%",
+        "betting": 410000,
+        "odds": 3.80
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Where will the S&P 500 benchmark index close on the last trading day of 2026?",
+    "category": "Economy",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Above 6,500",
+        "betting": 920000,
+        "odds": 2.10
+      },
+      {
+        "id": 2,
+        "title": "5,800 to 6,500",
+        "betting": 1280000,
+        "odds": 1.55
+      },
+      {
+        "id": 3,
+        "title": "Below 5,800",
+        "betting": 350000,
+        "odds": 4.20
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Predict the ECB main interest rate level at the end of September 2027.",
+    "category": "Economy",
+    "resultRevealDate": "2027-09-30",
+    "option": [
+      {
+        "id": 1,
+        "title": "Below 2.00%",
+        "betting": 540000,
+        "odds": 2.20
+      },
+      {
+        "id": 2,
+        "title": "2.00% to 2.75%",
+        "betting": 890000,
+        "odds": 1.70
+      },
+      {
+        "id": 3,
+        "title": "Above 2.75%",
+        "betting": 280000,
+        "odds": 4.50
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "What will be the US Bureau of Economic Analysis official annual real GDP growth rate for 2026?",
+    "category": "Economy",
+    "resultRevealDate": "2027-01-28",
+    "option": [
+      {
+        "id": 1,
+        "title": "Above 2.5%",
+        "betting": 670000,
+        "odds": 2.10
+      },
+      {
+        "id": 2,
+        "title": "1.5% to 2.5%",
+        "betting": 1020000,
+        "odds": 1.65
+      },
+      {
+        "id": 3,
+        "title": "Below 1.5%",
+        "betting": 390000,
+        "odds": 3.60
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Where will the DXY index trade on December 31, 2026?",
+    "category": "Economy",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Above 106.0",
+        "betting": 510000,
+        "odds": 2.30
+      },
+      {
+        "id": 2,
+        "title": "98.0 to 106.0",
+        "betting": 940000,
+        "odds": 1.60
+      },
+      {
+        "id": 3,
+        "title": "Below 98.0",
+        "betting": 360000,
+        "odds": 3.75
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "What will be the BOJ uncollateralized overnight call rate by late 2026?",
+    "category": "Economy",
+    "resultRevealDate": "2026-12-20",
+    "option": [
+      {
+        "id": 1,
+        "title": "0.75% or Higher",
+        "betting": 430000,
+        "odds": 2.80
+      },
+      {
+        "id": 2,
+        "title": "0.50% to 0.74%",
+        "betting": 880000,
+        "odds": 1.65
+      },
+      {
+        "id": 3,
+        "title": "Below 0.50%",
+        "betting": 310000,
+        "odds": 4.10
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Which major central bank will launch a public retail central bank digital currency first?",
+    "category": "Economy",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "European Central Bank (Digital Euro)",
+        "betting": 780000,
+        "odds": 1.85
+      },
+      {
+        "id": 2,
+        "title": "Bank of England (Digital Pound)",
+        "betting": 510000,
+        "odds": 2.60
+      },
+      {
+        "id": 3,
+        "title": "Bank of Japan (Digital Yen)",
+        "betting": 290000,
+        "odds": 4.20
+      },
+      {
+        "id": 4,
+        "title": "US Federal Reserve",
+        "betting": 120000,
+        "odds": 9.50
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Will Apple Inc. hit a market cap of $4 Trillion at any point in 2027?",
+    "category": "Economy",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Yes, Reaches $4.0T+",
+        "betting": 890000,
+        "odds": 1.90
+      },
+      {
+        "id": 2,
+        "title": "No, Stays Below $4.0T",
+        "betting": 760000,
+        "odds": 1.80
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Where will global annual headline inflation land according to the IMF World Economic Outlook?",
+    "category": "Economy",
+    "resultRevealDate": "2027-10-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "Under 3.2%",
+        "betting": 620000,
+        "odds": 2.10
+      },
+      {
+        "id": 2,
+        "title": "3.2% to 4.5%",
+        "betting": 850000,
+        "odds": 1.65
+      },
+      {
+        "id": 3,
+        "title": "Above 4.5%",
+        "betting": 220000,
+        "odds": 5.00
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Peak default percentage on US/EU commercial mortgage-backed securities in 2026.",
+    "category": "Economy",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Above 8.0%",
+        "betting": 420000,
+        "odds": 2.90
+      },
+      {
+        "id": 2,
+        "title": "5.0% to 8.0%",
+        "betting": 910000,
+        "odds": 1.60
+      },
+      {
+        "id": 3,
+        "title": "Below 5.0%",
+        "betting": 380000,
+        "odds": 3.50
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "What will be the highest price of Bitcoin (BTC/USD) achieved on major spot exchanges before Jan 1, 2027?",
+    "category": "Crypto",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Reach $150,000 or Higher",
+        "betting": 1350000,
+        "odds": 2.20
+      },
+      {
+        "id": 2,
+        "title": "$100,000 to $149,999",
+        "betting": 1620000,
+        "odds": 1.65
+      },
+      {
+        "id": 3,
+        "title": "Stay Below $100,000",
+        "betting": 480000,
+        "odds": 3.90
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Where will Ethereum market cap stand relative to Bitcoin market cap by late 2027?",
+    "category": "Crypto",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Greater than 30% of BTC",
+        "betting": 610000,
+        "odds": 2.50
+      },
+      {
+        "id": 2,
+        "title": "20% to 30% of BTC",
+        "betting": 940000,
+        "odds": 1.65
+      },
+      {
+        "id": 3,
+        "title": "Less than 20% of BTC",
+        "betting": 430000,
+        "odds": 3.20
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Will the US SEC grant approval for a spot Solana ETF trading product by Dec 31, 2026?",
+    "category": "Crypto",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Approved by Dec 2026",
+        "betting": 980000,
+        "odds": 1.75
+      },
+      {
+        "id": 2,
+        "title": "Not Approved by Dec 2026",
+        "betting": 810000,
+        "odds": 1.95
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Will total circulating market cap of all USD stablecoins reach $250 Billion?",
+    "category": "Crypto",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed $250 Billion",
+        "betting": 1120000,
+        "odds": 1.55
+      },
+      {
+        "id": 2,
+        "title": "$200B to $250B",
+        "betting": 680000,
+        "odds": 2.25
+      },
+      {
+        "id": 3,
+        "title": "Below $200 Billion",
+        "betting": 290000,
+        "odds": 4.80
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "What will Tether's share of total USD stablecoin supply be at the end of 2026?",
+    "category": "Crypto",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Above 60%",
+        "betting": 830000,
+        "odds": 1.60
+      },
+      {
+        "id": 2,
+        "title": "45% to 60%",
+        "betting": 610000,
+        "odds": 2.20
+      },
+      {
+        "id": 3,
+        "title": "Below 45%",
+        "betting": 210000,
+        "odds": 5.50
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Will DeFi TVL exceed $150 Billion across all public chains during 2027?",
+    "category": "Crypto",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed $150 Billion",
+        "betting": 890000,
+        "odds": 1.80
+      },
+      {
+        "id": 2,
+        "title": "$100B to $150B",
+        "betting": 720000,
+        "odds": 2.05
+      },
+      {
+        "id": 3,
+        "title": "Below $100 Billion",
+        "betting": 310000,
+        "odds": 3.90
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Where will Solana rank in TVL among non-Ethereum L1/L2 networks by late 2026?",
+    "category": "Crypto",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "#1 Rank",
+        "betting": 1050000,
+        "odds": 1.45
+      },
+      {
+        "id": 2,
+        "title": "#2 or #3 Rank",
+        "betting": 520000,
+        "odds": 2.70
+      },
+      {
+        "id": 3,
+        "title": "Outside Top 3",
+        "betting": 180000,
+        "odds": 7.00
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Predict Binance's global crypto spot trading volume share at the end of 2026.",
+    "category": "Crypto",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Above 45%",
+        "betting": 740000,
+        "odds": 1.85
+      },
+      {
+        "id": 2,
+        "title": "30% to 45%",
+        "betting": 810000,
+        "odds": 1.75
+      },
+      {
+        "id": 3,
+        "title": "Below 30%",
+        "betting": 250000,
+        "odds": 4.50
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Which geographic region will be the home of the next country adopting BTC as legal tender?",
+    "category": "Crypto",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Latin America / Caribbean",
+        "betting": 640000,
+        "odds": 1.90
+      },
+      {
+        "id": 2,
+        "title": "Sub-Saharan Africa",
+        "betting": 420000,
+        "odds": 2.80
+      },
+      {
+        "id": 3,
+        "title": "Southeast Asia / Pacific",
+        "betting": 270000,
+        "odds": 4.10
+      },
+      {
+        "id": 4,
+        "title": "No New Nation Adopts",
+        "betting": 580000,
+        "odds": 2.10
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Peak aggregate transactions per second (TPS) achieved across top Ethereum L2 networks in 2027.",
+    "category": "Crypto",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed 10,000 TPS",
+        "betting": 930000,
+        "odds": 1.60
+      },
+      {
+        "id": 2,
+        "title": "5,000 to 10,000 TPS",
+        "betting": 570000,
+        "odds": 2.30
+      },
+      {
+        "id": 3,
+        "title": "Below 5,000 TPS",
+        "betting": 210000,
+        "odds": 5.20
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Which national team will win the 2026 FIFA World Cup in North America?",
+    "category": "Sport",
+    "resultRevealDate": "2026-07-19",
+    "option": [
+      {
+        "id": 1,
+        "title": "Brazil",
+        "betting": 1250000,
+        "odds": 3.80
+      },
+      {
+        "id": 2,
+        "title": "France",
+        "betting": 1180000,
+        "odds": 4.20
+      },
+      {
+        "id": 3,
+        "title": "Argentina",
+        "betting": 980000,
+        "odds": 5.00
+      },
+      {
+        "id": 4,
+        "title": "England",
+        "betting": 850000,
+        "odds": 6.50
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Which NBA franchise will win the 2027 Larry O'Brien Trophy?",
+    "category": "Sport",
+    "resultRevealDate": "2027-06-25",
+    "option": [
+      {
+        "id": 1,
+        "title": "Boston Celtics",
+        "betting": 940000,
+        "odds": 3.50
+      },
+      {
+        "id": 2,
+        "title": "Oklahoma City Thunder",
+        "betting": 820000,
+        "odds": 4.20
+      },
+      {
+        "id": 3,
+        "title": "Denver Nuggets",
+        "betting": 670000,
+        "odds": 5.50
+      },
+      {
+        "id": 4,
+        "title": "Other NBA Team",
+        "betting": 1050000,
+        "odds": 2.20
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Which European club will win the UEFA Champions League title in May 2027?",
+    "category": "Sport",
+    "resultRevealDate": "2027-05-30",
+    "option": [
+      {
+        "id": 1,
+        "title": "Real Madrid",
+        "betting": 1410000,
+        "odds": 3.10
+      },
+      {
+        "id": 2,
+        "title": "Manchester City",
+        "betting": 1220000,
+        "odds": 3.60
+      },
+      {
+        "id": 3,
+        "title": "Bayern Munich",
+        "betting": 750000,
+        "odds": 6.00
+      },
+      {
+        "id": 4,
+        "title": "Other Club",
+        "betting": 910000,
+        "odds": 2.80
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Which Major League Baseball team will capture the 2026 World Series title?",
+    "category": "Sport",
+    "resultRevealDate": "2026-11-05",
+    "option": [
+      {
+        "id": 1,
+        "title": "Los Angeles Dodgers",
+        "betting": 1150000,
+        "odds": 3.20
+      },
+      {
+        "id": 2,
+        "title": "New York Yankees",
+        "betting": 890000,
+        "odds": 4.50
+      },
+      {
+        "id": 3,
+        "title": "Atlanta Braves",
+        "betting": 710000,
+        "odds": 5.80
+      },
+      {
+        "id": 4,
+        "title": "Other MLB Team",
+        "betting": 980000,
+        "odds": 2.30
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Which delegation will top the total gold medal count at the Los Angeles 2028 Olympics?",
+    "category": "Sport",
+    "resultRevealDate": "2028-07-30",
+    "option": [
+      {
+        "id": 1,
+        "title": "United States",
+        "betting": 1680000,
+        "odds": 1.45
+      },
+      {
+        "id": 2,
+        "title": "China",
+        "betting": 1320000,
+        "odds": 2.50
+      },
+      {
+        "id": 3,
+        "title": "Other Country",
+        "betting": 210000,
+        "odds": 12.00
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Who will win the F1 Drivers' World Championship for the 2027 season?",
+    "category": "Sport",
+    "resultRevealDate": "2027-11-28",
+    "option": [
+      {
+        "id": 1,
+        "title": "Max Verstappen",
+        "betting": 1100000,
+        "odds": 2.00
+      },
+      {
+        "id": 2,
+        "title": "Charles Leclerc",
+        "betting": 680000,
+        "odds": 3.80
+      },
+      {
+        "id": 3,
+        "title": "Lando Norris",
+        "betting": 640000,
+        "odds": 4.20
+      },
+      {
+        "id": 4,
+        "title": "Lewis Hamilton",
+        "betting": 520000,
+        "odds": 5.50
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Which nation will lead the medal table at the 2026 Aichi-Nagoya Asian Games?",
+    "category": "Sport",
+    "resultRevealDate": "2026-10-05",
+    "option": [
+      {
+        "id": 1,
+        "title": "China",
+        "betting": 1450000,
+        "odds": 1.15
+      },
+      {
+        "id": 2,
+        "title": "Japan",
+        "betting": 580000,
+        "odds": 4.50
+      },
+      {
+        "id": 3,
+        "title": "South Korea",
+        "betting": 290000,
+        "odds": 8.00
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Who will win the Yellow Jersey at the 2027 Tour de France?",
+    "category": "Sport",
+    "resultRevealDate": "2027-07-25",
+    "option": [
+      {
+        "id": 1,
+        "title": "Tadej Pogačar",
+        "betting": 1280000,
+        "odds": 1.70
+      },
+      {
+        "id": 2,
+        "title": "Jonas Vingegaard",
+        "betting": 1050000,
+        "odds": 2.10
+      },
+      {
+        "id": 3,
+        "title": "Remco Evenepoel",
+        "betting": 420000,
+        "odds": 5.50
+      },
+      {
+        "id": 4,
+        "title": "Other Rider",
+        "betting": 210000,
+        "odds": 10.00
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Which club will lift the English Premier League trophy in May 2027?",
+    "category": "Sport",
+    "resultRevealDate": "2027-05-23",
+    "option": [
+      {
+        "id": 1,
+        "title": "Manchester City",
+        "betting": 1150000,
+        "odds": 2.20
+      },
+      {
+        "id": 2,
+        "title": "Arsenal",
+        "betting": 920000,
+        "odds": 2.70
+      },
+      {
+        "id": 3,
+        "title": "Liverpool",
+        "betting": 780000,
+        "odds": 3.40
+      },
+      {
+        "id": 4,
+        "title": "Other Premier League Club",
+        "betting": 380000,
+        "odds": 7.50
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "How many players will win their career first Grand Slam singles title in 2027?",
+    "category": "Sport",
+    "resultRevealDate": "2027-09-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "2 or More New Champions",
+        "betting": 340000,
+        "odds": 3.20
+      },
+      {
+        "id": 2,
+        "title": "1 New Champion",
+        "betting": 820000,
+        "odds": 1.75
+      },
+      {
+        "id": 3,
+        "title": "0 New Champions",
+        "betting": 610000,
+        "odds": 2.30
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Which competitive region will produce the LoL Worlds 2026 Champion?",
+    "category": "E-sport",
+    "resultRevealDate": "2026-11-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "LCK (South Korea)",
+        "betting": 1280000,
+        "odds": 1.60
+      },
+      {
+        "id": 2,
+        "title": "LPL (China)",
+        "betting": 1050000,
+        "odds": 2.10
+      },
+      {
+        "id": 3,
+        "title": "LEC (Europe)",
+        "betting": 210000,
+        "odds": 9.50
+      },
+      {
+        "id": 4,
+        "title": "LCS (North America)",
+        "betting": 140000,
+        "odds": 14.00
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Where will the TI15 championship team hail from?",
+    "category": "E-sport",
+    "resultRevealDate": "2026-10-20",
+    "option": [
+      {
+        "id": 1,
+        "title": "Western Europe",
+        "betting": 890000,
+        "odds": 1.75
+      },
+      {
+        "id": 2,
+        "title": "Eastern Europe",
+        "betting": 710000,
+        "odds": 2.20
+      },
+      {
+        "id": 3,
+        "title": "China",
+        "betting": 420000,
+        "odds": 3.80
+      },
+      {
+        "id": 4,
+        "title": "Americas",
+        "betting": 180000,
+        "odds": 8.50
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Which team will win the first CS2 Major tournament of 2027?",
+    "category": "E-sport",
+    "resultRevealDate": "2027-05-30",
+    "option": [
+      {
+        "id": 1,
+        "title": "Natus Vincere",
+        "betting": 750000,
+        "odds": 3.20
+      },
+      {
+        "id": 2,
+        "title": "FaZe Clan",
+        "betting": 680000,
+        "odds": 3.60
+      },
+      {
+        "id": 3,
+        "title": "Team Vitality",
+        "betting": 620000,
+        "odds": 4.00
+      },
+      {
+        "id": 4,
+        "title": "Other Team",
+        "betting": 840000,
+        "odds": 2.20
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Which VCT competitive league region will produce the 2026 Valorant World Champion?",
+    "category": "E-sport",
+    "resultRevealDate": "2026-09-20",
+    "option": [
+      {
+        "id": 1,
+        "title": "VCT Pacific",
+        "betting": 820000,
+        "odds": 2.10
+      },
+      {
+        "id": 2,
+        "title": "VCT Americas",
+        "betting": 790000,
+        "odds": 2.20
+      },
+      {
+        "id": 3,
+        "title": "VCT EMEA",
+        "betting": 610000,
+        "odds": 2.90
+      },
+      {
+        "id": 4,
+        "title": "VCT CN (China)",
+        "betting": 450000,
+        "odds": 4.10
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Which esports organization will aggregate the most total points at the 2027 Esports World Cup?",
+    "category": "E-sport",
+    "resultRevealDate": "2027-08-28",
+    "option": [
+      {
+        "id": 1,
+        "title": "Falcons Esports",
+        "betting": 920000,
+        "odds": 2.00
+      },
+      {
+        "id": 2,
+        "title": "Team Liquid",
+        "betting": 780000,
+        "odds": 2.40
+      },
+      {
+        "id": 3,
+        "title": "T1",
+        "betting": 540000,
+        "odds": 3.50
+      },
+      {
+        "id": 4,
+        "title": "G2 Esports",
+        "betting": 480000,
+        "odds": 4.00
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Which squad will claim the ALGS Year 6 Championship trophy?",
+    "category": "E-sport",
+    "resultRevealDate": "2026-09-05",
+    "option": [
+      {
+        "id": 1,
+        "title": "TSM",
+        "betting": 510000,
+        "odds": 2.80
+      },
+      {
+        "id": 2,
+        "title": "DarkZero",
+        "betting": 490000,
+        "odds": 3.00
+      },
+      {
+        "id": 3,
+        "title": "Alliance",
+        "betting": 310000,
+        "odds": 4.50
+      },
+      {
+        "id": 4,
+        "title": "Other Squad",
+        "betting": 620000,
+        "odds": 2.00
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Which regional league team will capture the M7 MLBB World Championship title?",
+    "category": "E-sport",
+    "resultRevealDate": "2026-01-25",
+    "option": [
+      {
+        "id": 1,
+        "title": "Philippines (MPL PH Team)",
+        "betting": 1150000,
+        "odds": 1.45
+      },
+      {
+        "id": 2,
+        "title": "Indonesia (MPL ID Team)",
+        "betting": 820000,
+        "odds": 2.50
+      },
+      {
+        "id": 3,
+        "title": "Other Region Team",
+        "betting": 190000,
+        "odds": 9.00
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Which team will win the RLCS 2027 World Championship?",
+    "category": "E-sport",
+    "resultRevealDate": "2027-09-12",
+    "option": [
+      {
+        "id": 1,
+        "title": "Karmine Corp",
+        "betting": 580000,
+        "odds": 2.50
+      },
+      {
+        "id": 2,
+        "title": "G2 Stride",
+        "betting": 520000,
+        "odds": 2.80
+      },
+      {
+        "id": 3,
+        "title": "Team BDS",
+        "betting": 410000,
+        "odds": 3.60
+      },
+      {
+        "id": 4,
+        "title": "Other Team",
+        "betting": 390000,
+        "odds": 3.80
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Which home nation will the Capcom Cup XIII winner represent?",
+    "category": "E-sport",
+    "resultRevealDate": "2027-03-01",
+    "option": [
+      {
+        "id": 1,
+        "title": "Japan",
+        "betting": 910000,
+        "odds": 1.60
+      },
+      {
+        "id": 2,
+        "title": "United States",
+        "betting": 480000,
+        "odds": 3.00
+      },
+      {
+        "id": 3,
+        "title": "Dominican Republic",
+        "betting": 320000,
+        "odds": 4.50
+      },
+      {
+        "id": 4,
+        "title": "Other Country",
+        "betting": 260000,
+        "odds": 5.50
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Which team will claim the OWCS World Finals title in late 2026?",
+    "category": "E-sport",
+    "resultRevealDate": "2026-11-22",
+    "option": [
+      {
+        "id": 1,
+        "title": "Crazy Raccoon",
+        "betting": 740000,
+        "odds": 1.80
+      },
+      {
+        "id": 2,
+        "title": "Team Falcons",
+        "betting": 610000,
+        "odds": 2.20
+      },
+      {
+        "id": 3,
+        "title": "Spacestation Gaming",
+        "betting": 280000,
+        "odds": 5.00
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Which film category will take the #1 worldwide box office rank for 2026?",
+    "category": "Pop culture",
+    "resultRevealDate": "2027-01-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Marvel / DC Superhero Feature",
+        "betting": 1150000,
+        "odds": 2.10
+      },
+      {
+        "id": 2,
+        "title": "Animated Sequel / Franchise",
+        "betting": 1280000,
+        "odds": 1.90
+      },
+      {
+        "id": 3,
+        "title": "Action / Sci-Fi Franchise Sequel",
+        "betting": 720000,
+        "odds": 3.20
+      },
+      {
+        "id": 4,
+        "title": "Original non-IP Film",
+        "betting": 150000,
+        "odds": 15.00
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "What will be the official Metacritic aggregate score for GTA VI after 50+ reviews?",
+    "category": "Pop culture",
+    "resultRevealDate": "2026-12-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "96 or Higher",
+        "betting": 1420000,
+        "odds": 1.70
+      },
+      {
+        "id": 2,
+        "title": "91 to 95",
+        "betting": 890000,
+        "odds": 2.30
+      },
+      {
+        "id": 3,
+        "title": "90 or Below",
+        "betting": 240000,
+        "odds": 7.50
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "What primary genre will win Best Picture at the 99th Academy Awards?",
+    "category": "Pop culture",
+    "resultRevealDate": "2027-03-28",
+    "option": [
+      {
+        "id": 1,
+        "title": "Historical Drama / Biopic",
+        "betting": 840000,
+        "odds": 2.10
+      },
+      {
+        "id": 2,
+        "title": "Indie / Social Drama",
+        "betting": 690000,
+        "odds": 2.50
+      },
+      {
+        "id": 3,
+        "title": "Sci-Fi / Musical / Thriller",
+        "betting": 420000,
+        "odds": 4.10
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Which genre will win Album of the Year at the 69th Annual Grammy Awards?",
+    "category": "Pop culture",
+    "resultRevealDate": "2027-02-10",
+    "option": [
+      {
+        "id": 1,
+        "title": "Pop / Dance",
+        "betting": 950000,
+        "odds": 1.85
+      },
+      {
+        "id": 2,
+        "title": "R&B / Hip-Hop",
+        "betting": 680000,
+        "odds": 2.50
+      },
+      {
+        "id": 3,
+        "title": "Country / Americana",
+        "betting": 410000,
+        "odds": 4.20
+      },
+      {
+        "id": 4,
+        "title": "Rock / Alternative",
+        "betting": 220000,
+        "odds": 7.50
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Which game genre will claim GOTY at The Game Awards 2026?",
+    "category": "Pop culture",
+    "resultRevealDate": "2026-12-11",
+    "option": [
+      {
+        "id": 1,
+        "title": "Open World Action RPG",
+        "betting": 1310000,
+        "odds": 1.55
+      },
+      {
+        "id": 2,
+        "title": "Linear Action-Adventure",
+        "betting": 640000,
+        "odds": 2.90
+      },
+      {
+        "id": 3,
+        "title": "Indie Breakout Game",
+        "betting": 310000,
+        "odds": 6.00
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Which release type will top the worldwide anime box office in 2026?",
+    "category": "Pop culture",
+    "resultRevealDate": "2027-01-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "Shonen Manga Adaptation Feature",
+        "betting": 1020000,
+        "odds": 1.50
+      },
+      {
+        "id": 2,
+        "title": "Studio Ghibli Original Feature",
+        "betting": 580000,
+        "odds": 2.60
+      },
+      {
+        "id": 3,
+        "title": "Standalone Original Anime Movie",
+        "betting": 290000,
+        "odds": 5.00
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Which music category will produce the #1 most streamed global track of 2026?",
+    "category": "Pop culture",
+    "resultRevealDate": "2026-12-05",
+    "option": [
+      {
+        "id": 1,
+        "title": "English Pop Solo Track",
+        "betting": 880000,
+        "odds": 1.90
+      },
+      {
+        "id": 2,
+        "title": "Latin / Reggaeton Track",
+        "betting": 710000,
+        "odds": 2.30
+      },
+      {
+        "id": 3,
+        "title": "Hip-Hop Collaboration",
+        "betting": 450000,
+        "odds": 3.60
+      },
+      {
+        "id": 4,
+        "title": "K-Pop Group Single",
+        "betting": 380000,
+        "odds": 4.20
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Which distributor will air the 2027 Emmy winner for Best Drama Series?",
+    "category": "Pop culture",
+    "resultRevealDate": "2027-09-20",
+    "option": [
+      {
+        "id": 1,
+        "title": "HBO / Max",
+        "betting": 940000,
+        "odds": 1.80
+      },
+      {
+        "id": 2,
+        "title": "Netflix",
+        "betting": 720000,
+        "odds": 2.30
+      },
+      {
+        "id": 3,
+        "title": "Apple TV+",
+        "betting": 510000,
+        "odds": 3.20
+      },
+      {
+        "id": 4,
+        "title": "Other Network / Platform",
+        "betting": 210000,
+        "odds": 8.00
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Which literary genre will log the most aggregate weeks at #1 on the NYT Hardcover Fiction list in 2026?",
+    "category": "Pop culture",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Romantasy / Fantasy",
+        "betting": 1100000,
+        "odds": 1.45
+      },
+      {
+        "id": 2,
+        "title": "Psychological Thriller",
+        "betting": 520000,
+        "odds": 2.80
+      },
+      {
+        "id": 3,
+        "title": "Literary Contemporary Drama",
+        "betting": 280000,
+        "odds": 5.20
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Total combined theatrical box office of all MCU and DCU superhero releases in 2026.",
+    "category": "Pop culture",
+    "resultRevealDate": "2027-01-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed $2.5 Billion",
+        "betting": 780000,
+        "odds": 2.00
+      },
+      {
+        "id": 2,
+        "title": "$1.5B to $2.5B",
+        "betting": 920000,
+        "odds": 1.65
+      },
+      {
+        "id": 3,
+        "title": "Under $1.5 Billion",
+        "betting": 340000,
+        "odds": 4.50
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Will the US FDA grant regulatory approval for a universal flu vaccine before Dec 31, 2027?",
+    "category": "Health",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Approved by Dec 2027",
+        "betting": 610000,
+        "odds": 2.40
+      },
+      {
+        "id": 2,
+        "title": "Not Approved by Dec 2027",
+        "betting": 890000,
+        "odds": 1.55
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Will a primary Phase 3 trial for a personalized mRNA melanoma/cancer vaccine report statistical significance in 2026?",
+    "category": "Health",
+    "resultRevealDate": "2026-11-30",
+    "option": [
+      {
+        "id": 1,
+        "title": "Positive Primary Endpoint Met",
+        "betting": 1120000,
+        "odds": 1.60
+      },
+      {
+        "id": 2,
+        "title": "Inconclusive / Endpoint Extended",
+        "betting": 420000,
+        "odds": 3.50
+      },
+      {
+        "id": 3,
+        "title": "Failed Primary Endpoint",
+        "betting": 250000,
+        "odds": 5.80
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Will global sales of GLP-1 and next-gen obesity therapies top $50 Billion in 2026?",
+    "category": "Health",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed $50 Billion",
+        "betting": 1250000,
+        "odds": 1.45
+      },
+      {
+        "id": 2,
+        "title": "$35B to $50B",
+        "betting": 650000,
+        "odds": 2.30
+      },
+      {
+        "id": 3,
+        "title": "Below $35 Billion",
+        "betting": 190000,
+        "odds": 7.50
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Will the WHO declare a new PHEIC for any infectious pathogen before the end of 2027?",
+    "category": "Health",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Yes, Declared",
+        "betting": 520000,
+        "odds": 2.70
+      },
+      {
+        "id": 2,
+        "title": "No Declaration",
+        "betting": 940000,
+        "odds": 1.45
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Will major US medical societies recommend blood biomarker assays as standard first-line diagnostic tests by 2027?",
+    "category": "Health",
+    "resultRevealDate": "2027-10-30",
+    "option": [
+      {
+        "id": 1,
+        "title": "Adopted as Standard Care",
+        "betting": 780000,
+        "odds": 1.75
+      },
+      {
+        "id": 2,
+        "title": "Secondary / Experimental Only",
+        "betting": 610000,
+        "odds": 2.05
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "How many new non-sickle cell disease indications will receive FDA approval for CRISPR technologies in 2026?",
+    "category": "Health",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "2 or More New Approvals",
+        "betting": 410000,
+        "odds": 3.10
+      },
+      {
+        "id": 2,
+        "title": "1 New Approval",
+        "betting": 850000,
+        "odds": 1.75
+      },
+      {
+        "id": 3,
+        "title": "0 New Approvals",
+        "betting": 480000,
+        "odds": 2.80
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Will the FDA or EMA approve a completely novel structural class antibiotic before late 2027?",
+    "category": "Health",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Yes, Approved",
+        "betting": 670000,
+        "odds": 2.00
+      },
+      {
+        "id": 2,
+        "title": "No Approval",
+        "betting": 710000,
+        "odds": 1.80
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Will a fully bioengineered organ complete 30-day human safety trials without severe rejection in 2026?",
+    "category": "Health",
+    "resultRevealDate": "2026-12-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "Full Success Met",
+        "betting": 530000,
+        "odds": 2.40
+      },
+      {
+        "id": 2,
+        "title": "Partial / Mixed Safety Results",
+        "betting": 720000,
+        "odds": 1.85
+      },
+      {
+        "id": 3,
+        "title": "Trial Delayed or Failed",
+        "betting": 310000,
+        "odds": 4.10
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Will a single-shot triple combination respiratory vaccine receive US regulatory approval for fall 2026?",
+    "category": "Health",
+    "resultRevealDate": "2026-09-30",
+    "option": [
+      {
+        "id": 1,
+        "title": "Approved for Public Use",
+        "betting": 890000,
+        "odds": 1.65
+      },
+      {
+        "id": 2,
+        "title": "Delayed or Rejected",
+        "betting": 540000,
+        "odds": 2.25
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Will aggregate worldwide active paid users on mental health platforms surpass 200 million by end of 2026?",
+    "category": "Health",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed 200 Million",
+        "betting": 690000,
+        "odds": 1.90
+      },
+      {
+        "id": 2,
+        "title": "120M to 200M",
+        "betting": 740000,
+        "odds": 1.80
+      },
+      {
+        "id": 3,
+        "title": "Under 120 Million",
+        "betting": 220000,
+        "odds": 5.50
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Which organization will publicly release the first AI frontier model scoring over 98% on USMLE steps 1-3?",
+    "category": "Tech",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "OpenAI",
+        "betting": 1280000,
+        "odds": 1.80
+      },
+      {
+        "id": 2,
+        "title": "Google DeepMind",
+        "betting": 1050000,
+        "odds": 2.10
+      },
+      {
+        "id": 3,
+        "title": "Anthropic",
+        "betting": 590000,
+        "odds": 3.60
+      },
+      {
+        "id": 4,
+        "title": "Open Source Consortium",
+        "betting": 210000,
+        "odds": 9.00
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Predict total global paid autonomous driverless rides per day by late 2026 across all providers.",
+    "category": "Tech",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Over 500,000 / day",
+        "betting": 820000,
+        "odds": 1.95
+      },
+      {
+        "id": 2,
+        "title": "200,000 to 500,000 / day",
+        "betting": 940000,
+        "odds": 1.70
+      },
+      {
+        "id": 3,
+        "title": "Under 200,000 / day",
+        "betting": 310000,
+        "odds": 4.20
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Will a quantum processor demonstrate verifiable supremacy over classical supercomputers for drug discovery molecular modeling in 2027?",
+    "category": "Tech",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Verified Success",
+        "betting": 620000,
+        "odds": 2.30
+      },
+      {
+        "id": 2,
+        "title": "Contested Claim",
+        "betting": 780000,
+        "odds": 1.80
+      },
+      {
+        "id": 3,
+        "title": "No Breakthrough Claim",
+        "betting": 390000,
+        "odds": 3.50
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Will leading semiconductor foundries achieve commercial 2nm wafer production yields above 70% by late 2026?",
+    "category": "Tech",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Above 70% Yield",
+        "betting": 880000,
+        "odds": 1.70
+      },
+      {
+        "id": 2,
+        "title": "50% to 70% Yield",
+        "betting": 650000,
+        "odds": 2.20
+      },
+      {
+        "id": 3,
+        "title": "Below 50% Yield",
+        "betting": 240000,
+        "odds": 5.00
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "title": "How many active general-purpose humanoid robots will be deployed in commercial manufacturing by late 2026?",
+    "category": "Tech",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Over 10,000 Units",
+        "betting": 710000,
+        "odds": 2.20
+      },
+      {
+        "id": 2,
+        "title": "2,000 to 10,000 Units",
+        "betting": 930000,
+        "odds": 1.65
+      },
+      {
+        "id": 3,
+        "title": "Under 2,000 Units",
+        "betting": 380000,
+        "odds": 3.80
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Continuous duration of Q>1 net energy output achieved by an experimental fusion reactor in 2027.",
+    "category": "Tech",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Over 10 Minutes",
+        "betting": 310000,
+        "odds": 4.50
+      },
+      {
+        "id": 2,
+        "title": "1 to 10 Minutes",
+        "betting": 720000,
+        "odds": 1.90
+      },
+      {
+        "id": 3,
+        "title": "Under 1 Minute",
+        "betting": 650000,
+        "odds": 2.10
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Total global unit sales of Apple's Vision headwear line during calendar year 2026.",
+    "category": "Tech",
+    "resultRevealDate": "2027-01-20",
+    "option": [
+      {
+        "id": 1,
+        "title": "Over 2.0 Million Units",
+        "betting": 580000,
+        "odds": 2.50
+      },
+      {
+        "id": 2,
+        "title": "1.0M to 2.0M Units",
+        "betting": 890000,
+        "odds": 1.70
+      },
+      {
+        "id": 3,
+        "title": "Under 1.0 Million Units",
+        "betting": 410000,
+        "odds": 3.40
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Total capex spent by major technology hyperscalers on AI data centers and chips in 2026.",
+    "category": "Tech",
+    "resultRevealDate": "2027-02-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed $300 Billion",
+        "betting": 1180000,
+        "odds": 1.50
+      },
+      {
+        "id": 2,
+        "title": "$200B to $300B",
+        "betting": 640000,
+        "odds": 2.30
+      },
+      {
+        "id": 3,
+        "title": "Under $200 Billion",
+        "betting": 180000,
+        "odds": 8.00
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Will a major Hollywood film studio give a full theatrical release to an AI-generated feature-length movie by 2027?",
+    "category": "Tech",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Released in Theaters",
+        "betting": 490000,
+        "odds": 2.80
+      },
+      {
+        "id": 2,
+        "title": "Announced but Delayed",
+        "betting": 610000,
+        "odds": 2.20
+      },
+      {
+        "id": 3,
+        "title": "Not Released",
+        "betting": 750000,
+        "odds": 1.80
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Predict total global subscribers for low earth orbit satellite internet service by late 2026.",
+    "category": "Tech",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed 10 Million",
+        "betting": 1050000,
+        "odds": 1.60
+      },
+      {
+        "id": 2,
+        "title": "6M to 10 Million",
+        "betting": 680000,
+        "odds": 2.20
+      },
+      {
+        "id": 3,
+        "title": "Under 6 Million",
+        "betting": 210000,
+        "odds": 5.50
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Will full-year 2026 average surface temperature exceed +1.5°C above pre-industrial levels according to ERA5?",
+    "category": "Climate",
+    "resultRevealDate": "2027-01-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed +1.50°C",
+        "betting": 1150000,
+        "odds": 1.55
+      },
+      {
+        "id": 2,
+        "title": "+1.30°C to +1.50°C",
+        "betting": 690000,
+        "odds": 2.20
+      },
+      {
+        "id": 3,
+        "title": "Below +1.30°C",
+        "betting": 180000,
+        "odds": 7.80
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "title": "How many named storms will form in the Atlantic basin during the 2026 hurricane season according to NOAA?",
+    "category": "Climate",
+    "resultRevealDate": "2026-11-30",
+    "option": [
+      {
+        "id": 1,
+        "title": "Above 20 Storms",
+        "betting": 740000,
+        "odds": 2.00
+      },
+      {
+        "id": 2,
+        "title": "14 to 20 Storms",
+        "betting": 920000,
+        "odds": 1.65
+      },
+      {
+        "id": 3,
+        "title": "Below 14 Storms",
+        "betting": 280000,
+        "odds": 4.50
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "title": "What portion of total global electricity will be generated by wind, solar, hydro, and geothermal power in 2026?",
+    "category": "Climate",
+    "resultRevealDate": "2027-03-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Over 36.0%",
+        "betting": 890000,
+        "odds": 1.70
+      },
+      {
+        "id": 2,
+        "title": "31.0% to 36.0%",
+        "betting": 710000,
+        "odds": 2.00
+      },
+      {
+        "id": 3,
+        "title": "Below 31.0%",
+        "betting": 210000,
+        "odds": 5.50
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Will Arctic sea ice minimum extent set a new record low according to NSIDC data?",
+    "category": "Climate",
+    "resultRevealDate": "2026-09-30",
+    "option": [
+      {
+        "id": 1,
+        "title": "Record Low (<3.3M sq km)",
+        "betting": 610000,
+        "odds": 2.30
+      },
+      {
+        "id": 2,
+        "title": "Near Average (3.3M-4.3M sq km)",
+        "betting": 880000,
+        "odds": 1.65
+      },
+      {
+        "id": 3,
+        "title": "Above Average (>4.3M sq km)",
+        "betting": 240000,
+        "odds": 5.00
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Will COP31 pass a legally binding international fossil fuel phaseout timeline?",
+    "category": "Climate",
+    "resultRevealDate": "2026-11-25",
+    "option": [
+      {
+        "id": 1,
+        "title": "Yes, Binding Treaty",
+        "betting": 380000,
+        "odds": 3.60
+      },
+      {
+        "id": 2,
+        "title": "No Binding Agreement",
+        "betting": 1120000,
+        "odds": 1.35
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "title": "What percentage of new worldwide passenger car sales will be full battery electric (BEV) in 2026?",
+    "category": "Climate",
+    "resultRevealDate": "2027-02-28",
+    "option": [
+      {
+        "id": 1,
+        "title": "Over 25.0%",
+        "betting": 780000,
+        "odds": 2.10
+      },
+      {
+        "id": 2,
+        "title": "20.0% to 25.0%",
+        "betting": 950000,
+        "odds": 1.60
+      },
+      {
+        "id": 3,
+        "title": "Below 20.0%",
+        "betting": 310000,
+        "odds": 4.10
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Which oceanic ENSO state will NOAA declare active in November 2026?",
+    "category": "Climate",
+    "resultRevealDate": "2026-11-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "La Niña Active",
+        "betting": 720000,
+        "odds": 1.90
+      },
+      {
+        "id": 2,
+        "title": "El Niño Active",
+        "betting": 510000,
+        "odds": 2.60
+      },
+      {
+        "id": 3,
+        "title": "Neutral Phase",
+        "betting": 640000,
+        "odds": 2.10
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Will global active DAC carbon removal operational capacity exceed 3 Million Metric Tons/year in 2027?",
+    "category": "Climate",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed 3.0 Million Tons",
+        "betting": 580000,
+        "odds": 2.20
+      },
+      {
+        "id": 2,
+        "title": "1.0M to 3.0 Million Tons",
+        "betting": 820000,
+        "odds": 1.70
+      },
+      {
+        "id": 3,
+        "title": "Under 1.0 Million Tons",
+        "betting": 340000,
+        "odds": 3.80
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Annual change in Brazilian Amazon primary forest loss area for 2026 compared to 2025.",
+    "category": "Climate",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Decreased by >20%",
+        "betting": 810000,
+        "odds": 1.75
+      },
+      {
+        "id": 2,
+        "title": "Decreased by 0% to 20%",
+        "betting": 650000,
+        "odds": 2.10
+      },
+      {
+        "id": 3,
+        "title": "Increased Deforestation",
+        "betting": 290000,
+        "odds": 4.50
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Total gigawatts (GW) of new solar photovoltaic installations added globally in 2026.",
+    "category": "Climate",
+    "resultRevealDate": "2027-02-28",
+    "option": [
+      {
+        "id": 1,
+        "title": "Over 600 GW",
+        "betting": 940000,
+        "odds": 1.65
+      },
+      {
+        "id": 2,
+        "title": "450 GW to 600 GW",
+        "betting": 710000,
+        "odds": 2.05
+      },
+      {
+        "id": 3,
+        "title": "Below 450 GW",
+        "betting": 220000,
+        "odds": 5.20
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "title": "What will be the highest spot price reached by Brent Crude oil ($/barrel) in 2026?",
+    "category": "Commodities",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Above $100 / barrel",
+        "betting": 620000,
+        "odds": 2.40
+      },
+      {
+        "id": 2,
+        "title": "$80 to $100 / barrel",
+        "betting": 1150000,
+        "odds": 1.55
+      },
+      {
+        "id": 3,
+        "title": "Below $80 / barrel",
+        "betting": 420000,
+        "odds": 3.60
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Will spot Gold (XAU/USD) hit $3,000 per troy ounce before the end of 2026?",
+    "category": "Commodities",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed $3,000 / oz",
+        "betting": 1280000,
+        "odds": 1.65
+      },
+      {
+        "id": 2,
+        "title": "$2,600 to $3,000 / oz",
+        "betting": 750000,
+        "odds": 2.10
+      },
+      {
+        "id": 3,
+        "title": "Below $2,600 / oz",
+        "betting": 210000,
+        "odds": 5.80
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "title": "How will battery-grade lithium carbonate prices behave over full year 2026?",
+    "category": "Commodities",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Rise by >30%",
+        "betting": 520000,
+        "odds": 2.50
+      },
+      {
+        "id": 2,
+        "title": "Stable (-10% to +30%)",
+        "betting": 910000,
+        "odds": 1.65
+      },
+      {
+        "id": 3,
+        "title": "Fall by >10%",
+        "betting": 380000,
+        "odds": 3.80
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Where will global wheat production land according to the USDA Foreign Agricultural Service report?",
+    "category": "Commodities",
+    "resultRevealDate": "2027-05-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "Record High (>800M Metric Tons)",
+        "betting": 610000,
+        "odds": 2.20
+      },
+      {
+        "id": 2,
+        "title": "Normal Range (760M-800M MT)",
+        "betting": 980000,
+        "odds": 1.55
+      },
+      {
+        "id": 3,
+        "title": "Shortage (<760M Metric Tons)",
+        "betting": 310000,
+        "odds": 4.10
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Highest price achieved by LME copper futures contract in 2027.",
+    "category": "Commodities",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Over $12,000 / MT",
+        "betting": 820000,
+        "odds": 1.85
+      },
+      {
+        "id": 2,
+        "title": "$9,500 to $12,000 / MT",
+        "betting": 890000,
+        "odds": 1.70
+      },
+      {
+        "id": 3,
+        "title": "Below $9,500 / MT",
+        "betting": 250000,
+        "odds": 4.80
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Peak monthly settlement price for Dutch TTF natural gas futures during winter 2026/2027.",
+    "category": "Commodities",
+    "resultRevealDate": "2027-03-15",
+    "option": [
+      {
+        "id": 1,
+        "title": "Above €60 / MWh",
+        "betting": 490000,
+        "odds": 2.60
+      },
+      {
+        "id": 2,
+        "title": "€40 to €60 / MWh",
+        "betting": 950000,
+        "odds": 1.60
+      },
+      {
+        "id": 3,
+        "title": "Below €40 / MWh",
+        "betting": 360000,
+        "odds": 3.90
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Peak price per troy ounce for spot silver in 2026.",
+    "category": "Commodities",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Above $40 / oz",
+        "betting": 790000,
+        "odds": 1.95
+      },
+      {
+        "id": 2,
+        "title": "$30 to $40 / oz",
+        "betting": 880000,
+        "odds": 1.70
+      },
+      {
+        "id": 3,
+        "title": "Below $30 / oz",
+        "betting": 290000,
+        "odds": 4.50
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Where will uranium oxide (U3O8) spot price trade at peak in 2027?",
+    "category": "Commodities",
+    "resultRevealDate": "2027-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Exceed $120 / lb",
+        "betting": 840000,
+        "odds": 1.80
+      },
+      {
+        "id": 2,
+        "title": "$90 to $120 / lb",
+        "betting": 720000,
+        "odds": 2.00
+      },
+      {
+        "id": 3,
+        "title": "Below $90 / lb",
+        "betting": 280000,
+        "odds": 4.50
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "title": "How will Arabica coffee futures contracts perform during 2026?",
+    "category": "Commodities",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Increase >25%",
+        "betting": 640000,
+        "odds": 2.20
+      },
+      {
+        "id": 2,
+        "title": "Moderate Change (-15% to +25%)",
+        "betting": 850000,
+        "odds": 1.65
+      },
+      {
+        "id": 3,
+        "title": "Decrease >15%",
+        "betting": 320000,
+        "odds": 4.00
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Total barrels of crude oil held in the US Strategic Petroleum Reserve as of December 31, 2026.",
+    "category": "Commodities",
+    "resultRevealDate": "2026-12-31",
+    "option": [
+      {
+        "id": 1,
+        "title": "Over 450 Million Barrels",
+        "betting": 710000,
+        "odds": 2.10
+      },
+      {
+        "id": 2,
+        "title": "380M to 450 Million Barrels",
+        "betting": 940000,
+        "odds": 1.60
+      },
+      {
+        "id": 3,
+        "title": "Under 380 Million Barrels",
+        "betting": 280000,
+        "odds": 4.50
+      }
+    ]
+  }
+]
