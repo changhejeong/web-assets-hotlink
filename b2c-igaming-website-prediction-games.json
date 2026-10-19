@@ -8,18 +8,21 @@
       {
         "id": 1,
         "title": "Democratic Party",
+        "chance": 49.57,
         "betting": 1450000,
         "odds": 1.95
       },
       {
         "id": 2,
         "title": "Republican Party",
+        "chance": 47.18,
         "betting": 1380000,
-        "odds": 1.90
+        "odds": 1.9
       },
       {
         "id": 3,
         "title": "Independent / Third Party",
+        "chance": 3.25,
         "betting": 95000,
         "odds": 18.0
       }
@@ -34,20 +37,23 @@
       {
         "id": 1,
         "title": "Labour Party Majority",
+        "chance": 43.62,
         "betting": 820000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 2,
         "title": "Conservative Party Majority",
+        "chance": 32.45,
         "betting": 610000,
-        "odds": 2.80
+        "odds": 2.8
       },
       {
         "id": 3,
         "title": "Hung Parliament",
+        "chance": 23.94,
         "betting": 450000,
-        "odds": 3.20
+        "odds": 3.2
       }
     ]
   },
@@ -60,20 +66,23 @@
       {
         "id": 1,
         "title": "Centrist Coalition vs Far-Right",
+        "chance": 47.47,
         "betting": 750000,
-        "odds": 1.80
+        "odds": 1.8
       },
       {
         "id": 2,
         "title": "Left Coalition vs Far-Right",
+        "chance": 32.28,
         "betting": 510000,
-        "odds": 2.60
+        "odds": 2.6
       },
       {
         "id": 3,
         "title": "Centrist Coalition vs Left Coalition",
+        "chance": 20.25,
         "betting": 320000,
-        "odds": 4.50
+        "odds": 4.5
       }
     ]
   },
@@ -86,12 +95,14 @@
       {
         "id": 1,
         "title": "Yes",
+        "chance": 19.09,
         "betting": 210000,
-        "odds": 4.20
+        "odds": 4.2
       },
       {
         "id": 2,
         "title": "No",
+        "chance": 80.91,
         "betting": 890000,
         "odds": 1.22
       }
@@ -106,20 +117,23 @@
       {
         "id": 1,
         "title": "CDU/CSU Led Coalition",
+        "chance": 61.18,
         "betting": 930000,
         "odds": 1.65
       },
       {
         "id": 2,
         "title": "SPD Led Coalition",
+        "chance": 26.97,
         "betting": 410000,
-        "odds": 3.10
+        "odds": 3.1
       },
       {
         "id": 3,
         "title": "Greens Led Coalition",
+        "chance": 11.84,
         "betting": 180000,
-        "odds": 7.50
+        "odds": 7.5
       }
     ]
   },
@@ -132,20 +146,23 @@
       {
         "id": 1,
         "title": "Conservative Leader",
+        "chance": 60.94,
         "betting": 1100000,
         "odds": 1.45
       },
       {
         "id": 2,
         "title": "Liberal Leader",
+        "chance": 34.35,
         "betting": 620000,
         "odds": 2.75
       },
       {
         "id": 3,
         "title": "NDP Leader",
+        "chance": 4.71,
         "betting": 85000,
-        "odds": 12.00
+        "odds": 12.0
       }
     ]
   },
@@ -158,20 +175,23 @@
       {
         "id": 1,
         "title": "Liberal Democratic Party (LDP)",
+        "chance": 62.14,
         "betting": 870000,
         "odds": 1.35
       },
       {
         "id": 2,
         "title": "Constitutional Democratic Party (CDP)",
+        "chance": 24.29,
         "betting": 340000,
-        "odds": 3.80
+        "odds": 3.8
       },
       {
         "id": 3,
         "title": "Opposition Coalition Candidate",
+        "chance": 13.57,
         "betting": 190000,
-        "odds": 5.50
+        "odds": 5.5
       }
     ]
   },
@@ -184,12 +204,14 @@
       {
         "id": 1,
         "title": "Yes",
+        "chance": 47.22,
         "betting": 680000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 2,
         "title": "No",
+        "chance": 52.78,
         "betting": 760000,
         "odds": 1.75
       }
@@ -204,20 +226,23 @@
       {
         "id": 1,
         "title": "European People's Party (EPP)",
+        "chance": 51.97,
         "betting": 790000,
-        "odds": 1.50
+        "odds": 1.5
       },
       {
         "id": 2,
         "title": "Progressive Alliance of Socialists and Democrats (S&D)",
+        "chance": 27.63,
         "betting": 420000,
-        "odds": 2.90
+        "odds": 2.9
       },
       {
         "id": 3,
         "title": "Right-Wing Sovereignist Bloc",
+        "chance": 20.39,
         "betting": 310000,
-        "odds": 4.10
+        "odds": 4.1
       }
     ]
   },
@@ -230,20 +255,23 @@
       {
         "id": 1,
         "title": "Global AI Safety Governance Framework",
+        "chance": 39.16,
         "betting": 560000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 2,
         "title": "Climate & Clean Energy Infrastructure",
+        "chance": 33.57,
         "betting": 480000,
-        "odds": 2.50
+        "odds": 2.5
       },
       {
         "id": 3,
         "title": "Defense & Critical Supply Chain Security",
+        "chance": 27.27,
         "betting": 390000,
-        "odds": 3.10
+        "odds": 3.1
       }
     ]
   },
@@ -256,20 +284,23 @@
       {
         "id": 1,
         "title": "Below 3.50%",
+        "chance": 31.88,
         "betting": 730000,
-        "odds": 2.40
+        "odds": 2.4
       },
       {
         "id": 2,
         "title": "3.50% to 4.25%",
+        "chance": 50.22,
         "betting": 1150000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 3,
         "title": "Above 4.25%",
+        "chance": 17.9,
         "betting": 410000,
-        "odds": 3.80
+        "odds": 3.8
       }
     ]
   },
@@ -282,20 +313,23 @@
       {
         "id": 1,
         "title": "Above 6,500",
+        "chance": 36.08,
         "betting": 920000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 2,
         "title": "5,800 to 6,500",
+        "chance": 50.2,
         "betting": 1280000,
         "odds": 1.55
       },
       {
         "id": 3,
         "title": "Below 5,800",
+        "chance": 13.73,
         "betting": 350000,
-        "odds": 4.20
+        "odds": 4.2
       }
     ]
   },
@@ -308,20 +342,23 @@
       {
         "id": 1,
         "title": "Below 2.00%",
+        "chance": 31.58,
         "betting": 540000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 2,
         "title": "2.00% to 2.75%",
+        "chance": 52.05,
         "betting": 890000,
-        "odds": 1.70
+        "odds": 1.7
       },
       {
         "id": 3,
         "title": "Above 2.75%",
+        "chance": 16.37,
         "betting": 280000,
-        "odds": 4.50
+        "odds": 4.5
       }
     ]
   },
@@ -334,20 +371,23 @@
       {
         "id": 1,
         "title": "Above 2.5%",
+        "chance": 32.21,
         "betting": 670000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 2,
         "title": "1.5% to 2.5%",
+        "chance": 49.04,
         "betting": 1020000,
         "odds": 1.65
       },
       {
         "id": 3,
         "title": "Below 1.5%",
+        "chance": 18.75,
         "betting": 390000,
-        "odds": 3.60
+        "odds": 3.6
       }
     ]
   },
@@ -360,18 +400,21 @@
       {
         "id": 1,
         "title": "Above 106.0",
+        "chance": 28.18,
         "betting": 510000,
-        "odds": 2.30
+        "odds": 2.3
       },
       {
         "id": 2,
         "title": "98.0 to 106.0",
+        "chance": 51.93,
         "betting": 940000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 3,
         "title": "Below 98.0",
+        "chance": 19.89,
         "betting": 360000,
         "odds": 3.75
       }
@@ -386,20 +429,23 @@
       {
         "id": 1,
         "title": "0.75% or Higher",
+        "chance": 26.54,
         "betting": 430000,
-        "odds": 2.80
+        "odds": 2.8
       },
       {
         "id": 2,
         "title": "0.50% to 0.74%",
+        "chance": 54.32,
         "betting": 880000,
         "odds": 1.65
       },
       {
         "id": 3,
         "title": "Below 0.50%",
+        "chance": 19.14,
         "betting": 310000,
-        "odds": 4.10
+        "odds": 4.1
       }
     ]
   },
@@ -412,26 +458,30 @@
       {
         "id": 1,
         "title": "European Central Bank (Digital Euro)",
+        "chance": 45.88,
         "betting": 780000,
         "odds": 1.85
       },
       {
         "id": 2,
         "title": "Bank of England (Digital Pound)",
+        "chance": 30.0,
         "betting": 510000,
-        "odds": 2.60
+        "odds": 2.6
       },
       {
         "id": 3,
         "title": "Bank of Japan (Digital Yen)",
+        "chance": 17.06,
         "betting": 290000,
-        "odds": 4.20
+        "odds": 4.2
       },
       {
         "id": 4,
         "title": "US Federal Reserve",
+        "chance": 7.06,
         "betting": 120000,
-        "odds": 9.50
+        "odds": 9.5
       }
     ]
   },
@@ -444,14 +494,16 @@
       {
         "id": 1,
         "title": "Yes, Reaches $4.0T+",
+        "chance": 53.94,
         "betting": 890000,
-        "odds": 1.90
+        "odds": 1.9
       },
       {
         "id": 2,
         "title": "No, Stays Below $4.0T",
+        "chance": 46.06,
         "betting": 760000,
-        "odds": 1.80
+        "odds": 1.8
       }
     ]
   },
@@ -464,20 +516,23 @@
       {
         "id": 1,
         "title": "Under 3.2%",
+        "chance": 36.69,
         "betting": 620000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 2,
         "title": "3.2% to 4.5%",
+        "chance": 50.3,
         "betting": 850000,
         "odds": 1.65
       },
       {
         "id": 3,
         "title": "Above 4.5%",
+        "chance": 13.02,
         "betting": 220000,
-        "odds": 5.00
+        "odds": 5.0
       }
     ]
   },
@@ -490,20 +545,23 @@
       {
         "id": 1,
         "title": "Above 8.0%",
+        "chance": 24.56,
         "betting": 420000,
-        "odds": 2.90
+        "odds": 2.9
       },
       {
         "id": 2,
         "title": "5.0% to 8.0%",
+        "chance": 53.22,
         "betting": 910000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 3,
         "title": "Below 5.0%",
+        "chance": 22.22,
         "betting": 380000,
-        "odds": 3.50
+        "odds": 3.5
       }
     ]
   },
@@ -516,20 +574,23 @@
       {
         "id": 1,
         "title": "Reach $150,000 or Higher",
+        "chance": 39.13,
         "betting": 1350000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 2,
         "title": "$100,000 to $149,999",
+        "chance": 46.96,
         "betting": 1620000,
         "odds": 1.65
       },
       {
         "id": 3,
         "title": "Stay Below $100,000",
+        "chance": 13.91,
         "betting": 480000,
-        "odds": 3.90
+        "odds": 3.9
       }
     ]
   },
@@ -542,20 +603,23 @@
       {
         "id": 1,
         "title": "Greater than 30% of BTC",
+        "chance": 30.81,
         "betting": 610000,
-        "odds": 2.50
+        "odds": 2.5
       },
       {
         "id": 2,
         "title": "20% to 30% of BTC",
+        "chance": 47.47,
         "betting": 940000,
         "odds": 1.65
       },
       {
         "id": 3,
         "title": "Less than 20% of BTC",
+        "chance": 21.72,
         "betting": 430000,
-        "odds": 3.20
+        "odds": 3.2
       }
     ]
   },
@@ -568,12 +632,14 @@
       {
         "id": 1,
         "title": "Approved by Dec 2026",
+        "chance": 54.75,
         "betting": 980000,
         "odds": 1.75
       },
       {
         "id": 2,
         "title": "Not Approved by Dec 2026",
+        "chance": 45.25,
         "betting": 810000,
         "odds": 1.95
       }
@@ -588,20 +654,23 @@
       {
         "id": 1,
         "title": "Exceed $250 Billion",
+        "chance": 53.59,
         "betting": 1120000,
         "odds": 1.55
       },
       {
         "id": 2,
         "title": "$200B to $250B",
+        "chance": 32.54,
         "betting": 680000,
         "odds": 2.25
       },
       {
         "id": 3,
         "title": "Below $200 Billion",
+        "chance": 13.88,
         "betting": 290000,
-        "odds": 4.80
+        "odds": 4.8
       }
     ]
   },
@@ -614,20 +683,23 @@
       {
         "id": 1,
         "title": "Above 60%",
+        "chance": 50.3,
         "betting": 830000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 2,
         "title": "45% to 60%",
+        "chance": 36.97,
         "betting": 610000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 3,
         "title": "Below 45%",
+        "chance": 12.73,
         "betting": 210000,
-        "odds": 5.50
+        "odds": 5.5
       }
     ]
   },
@@ -640,20 +712,23 @@
       {
         "id": 1,
         "title": "Exceed $150 Billion",
+        "chance": 46.35,
         "betting": 890000,
-        "odds": 1.80
+        "odds": 1.8
       },
       {
         "id": 2,
         "title": "$100B to $150B",
+        "chance": 37.5,
         "betting": 720000,
         "odds": 2.05
       },
       {
         "id": 3,
         "title": "Below $100 Billion",
+        "chance": 16.15,
         "betting": 310000,
-        "odds": 3.90
+        "odds": 3.9
       }
     ]
   },
@@ -666,20 +741,23 @@
       {
         "id": 1,
         "title": "#1 Rank",
+        "chance": 60.0,
         "betting": 1050000,
         "odds": 1.45
       },
       {
         "id": 2,
         "title": "#2 or #3 Rank",
+        "chance": 29.71,
         "betting": 520000,
-        "odds": 2.70
+        "odds": 2.7
       },
       {
         "id": 3,
         "title": "Outside Top 3",
+        "chance": 10.29,
         "betting": 180000,
-        "odds": 7.00
+        "odds": 7.0
       }
     ]
   },
@@ -692,20 +770,23 @@
       {
         "id": 1,
         "title": "Above 45%",
+        "chance": 41.11,
         "betting": 740000,
         "odds": 1.85
       },
       {
         "id": 2,
         "title": "30% to 45%",
+        "chance": 45.0,
         "betting": 810000,
         "odds": 1.75
       },
       {
         "id": 3,
         "title": "Below 30%",
+        "chance": 13.89,
         "betting": 250000,
-        "odds": 4.50
+        "odds": 4.5
       }
     ]
   },
@@ -718,26 +799,30 @@
       {
         "id": 1,
         "title": "Latin America / Caribbean",
+        "chance": 33.51,
         "betting": 640000,
-        "odds": 1.90
+        "odds": 1.9
       },
       {
         "id": 2,
         "title": "Sub-Saharan Africa",
+        "chance": 21.99,
         "betting": 420000,
-        "odds": 2.80
+        "odds": 2.8
       },
       {
         "id": 3,
         "title": "Southeast Asia / Pacific",
+        "chance": 14.14,
         "betting": 270000,
-        "odds": 4.10
+        "odds": 4.1
       },
       {
         "id": 4,
         "title": "No New Nation Adopts",
+        "chance": 30.37,
         "betting": 580000,
-        "odds": 2.10
+        "odds": 2.1
       }
     ]
   },
@@ -750,20 +835,23 @@
       {
         "id": 1,
         "title": "Exceed 10,000 TPS",
+        "chance": 54.39,
         "betting": 930000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 2,
         "title": "5,000 to 10,000 TPS",
+        "chance": 33.33,
         "betting": 570000,
-        "odds": 2.30
+        "odds": 2.3
       },
       {
         "id": 3,
         "title": "Below 5,000 TPS",
+        "chance": 12.28,
         "betting": 210000,
-        "odds": 5.20
+        "odds": 5.2
       }
     ]
   },
@@ -776,26 +864,30 @@
       {
         "id": 1,
         "title": "Brazil",
+        "chance": 29.34,
         "betting": 1250000,
-        "odds": 3.80
+        "odds": 3.8
       },
       {
         "id": 2,
         "title": "France",
+        "chance": 27.7,
         "betting": 1180000,
-        "odds": 4.20
+        "odds": 4.2
       },
       {
         "id": 3,
         "title": "Argentina",
+        "chance": 23.0,
         "betting": 980000,
-        "odds": 5.00
+        "odds": 5.0
       },
       {
         "id": 4,
         "title": "England",
+        "chance": 19.95,
         "betting": 850000,
-        "odds": 6.50
+        "odds": 6.5
       }
     ]
   },
@@ -808,26 +900,30 @@
       {
         "id": 1,
         "title": "Boston Celtics",
+        "chance": 27.01,
         "betting": 940000,
-        "odds": 3.50
+        "odds": 3.5
       },
       {
         "id": 2,
         "title": "Oklahoma City Thunder",
+        "chance": 23.56,
         "betting": 820000,
-        "odds": 4.20
+        "odds": 4.2
       },
       {
         "id": 3,
         "title": "Denver Nuggets",
+        "chance": 19.25,
         "betting": 670000,
-        "odds": 5.50
+        "odds": 5.5
       },
       {
         "id": 4,
         "title": "Other NBA Team",
+        "chance": 30.17,
         "betting": 1050000,
-        "odds": 2.20
+        "odds": 2.2
       }
     ]
   },
@@ -840,26 +936,30 @@
       {
         "id": 1,
         "title": "Real Madrid",
+        "chance": 32.87,
         "betting": 1410000,
-        "odds": 3.10
+        "odds": 3.1
       },
       {
         "id": 2,
         "title": "Manchester City",
+        "chance": 28.44,
         "betting": 1220000,
-        "odds": 3.60
+        "odds": 3.6
       },
       {
         "id": 3,
         "title": "Bayern Munich",
+        "chance": 17.48,
         "betting": 750000,
-        "odds": 6.00
+        "odds": 6.0
       },
       {
         "id": 4,
         "title": "Other Club",
+        "chance": 21.21,
         "betting": 910000,
-        "odds": 2.80
+        "odds": 2.8
       }
     ]
   },
@@ -872,26 +972,30 @@
       {
         "id": 1,
         "title": "Los Angeles Dodgers",
+        "chance": 30.83,
         "betting": 1150000,
-        "odds": 3.20
+        "odds": 3.2
       },
       {
         "id": 2,
         "title": "New York Yankees",
+        "chance": 23.86,
         "betting": 890000,
-        "odds": 4.50
+        "odds": 4.5
       },
       {
         "id": 3,
         "title": "Atlanta Braves",
+        "chance": 19.03,
         "betting": 710000,
-        "odds": 5.80
+        "odds": 5.8
       },
       {
         "id": 4,
         "title": "Other MLB Team",
+        "chance": 26.27,
         "betting": 980000,
-        "odds": 2.30
+        "odds": 2.3
       }
     ]
   },
@@ -904,20 +1008,23 @@
       {
         "id": 1,
         "title": "United States",
+        "chance": 52.34,
         "betting": 1680000,
         "odds": 1.45
       },
       {
         "id": 2,
         "title": "China",
+        "chance": 41.12,
         "betting": 1320000,
-        "odds": 2.50
+        "odds": 2.5
       },
       {
         "id": 3,
         "title": "Other Country",
+        "chance": 6.54,
         "betting": 210000,
-        "odds": 12.00
+        "odds": 12.0
       }
     ]
   },
@@ -930,26 +1037,30 @@
       {
         "id": 1,
         "title": "Max Verstappen",
+        "chance": 37.41,
         "betting": 1100000,
-        "odds": 2.00
+        "odds": 2.0
       },
       {
         "id": 2,
         "title": "Charles Leclerc",
+        "chance": 23.13,
         "betting": 680000,
-        "odds": 3.80
+        "odds": 3.8
       },
       {
         "id": 3,
         "title": "Lando Norris",
+        "chance": 21.77,
         "betting": 640000,
-        "odds": 4.20
+        "odds": 4.2
       },
       {
         "id": 4,
         "title": "Lewis Hamilton",
+        "chance": 17.69,
         "betting": 520000,
-        "odds": 5.50
+        "odds": 5.5
       }
     ]
   },
@@ -962,20 +1073,23 @@
       {
         "id": 1,
         "title": "China",
+        "chance": 62.5,
         "betting": 1450000,
         "odds": 1.15
       },
       {
         "id": 2,
         "title": "Japan",
+        "chance": 25.0,
         "betting": 580000,
-        "odds": 4.50
+        "odds": 4.5
       },
       {
         "id": 3,
         "title": "South Korea",
+        "chance": 12.5,
         "betting": 290000,
-        "odds": 8.00
+        "odds": 8.0
       }
     ]
   },
@@ -988,26 +1102,30 @@
       {
         "id": 1,
         "title": "Tadej Pogačar",
+        "chance": 43.24,
         "betting": 1280000,
-        "odds": 1.70
+        "odds": 1.7
       },
       {
         "id": 2,
         "title": "Jonas Vingegaard",
+        "chance": 35.47,
         "betting": 1050000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 3,
         "title": "Remco Evenepoel",
+        "chance": 14.19,
         "betting": 420000,
-        "odds": 5.50
+        "odds": 5.5
       },
       {
         "id": 4,
         "title": "Other Rider",
+        "chance": 7.1,
         "betting": 210000,
-        "odds": 10.00
+        "odds": 10.0
       }
     ]
   },
@@ -1020,26 +1138,30 @@
       {
         "id": 1,
         "title": "Manchester City",
+        "chance": 35.6,
         "betting": 1150000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 2,
         "title": "Arsenal",
+        "chance": 28.48,
         "betting": 920000,
-        "odds": 2.70
+        "odds": 2.7
       },
       {
         "id": 3,
         "title": "Liverpool",
+        "chance": 24.15,
         "betting": 780000,
-        "odds": 3.40
+        "odds": 3.4
       },
       {
         "id": 4,
         "title": "Other Premier League Club",
+        "chance": 11.76,
         "betting": 380000,
-        "odds": 7.50
+        "odds": 7.5
       }
     ]
   },
@@ -1052,20 +1174,23 @@
       {
         "id": 1,
         "title": "2 or More New Champions",
+        "chance": 19.21,
         "betting": 340000,
-        "odds": 3.20
+        "odds": 3.2
       },
       {
         "id": 2,
         "title": "1 New Champion",
+        "chance": 46.33,
         "betting": 820000,
         "odds": 1.75
       },
       {
         "id": 3,
         "title": "0 New Champions",
+        "chance": 34.46,
         "betting": 610000,
-        "odds": 2.30
+        "odds": 2.3
       }
     ]
   },
@@ -1078,26 +1203,30 @@
       {
         "id": 1,
         "title": "LCK (South Korea)",
+        "chance": 47.76,
         "betting": 1280000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 2,
         "title": "LPL (China)",
+        "chance": 39.18,
         "betting": 1050000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 3,
         "title": "LEC (Europe)",
+        "chance": 7.84,
         "betting": 210000,
-        "odds": 9.50
+        "odds": 9.5
       },
       {
         "id": 4,
         "title": "LCS (North America)",
+        "chance": 5.22,
         "betting": 140000,
-        "odds": 14.00
+        "odds": 14.0
       }
     ]
   },
@@ -1110,26 +1239,30 @@
       {
         "id": 1,
         "title": "Western Europe",
+        "chance": 40.45,
         "betting": 890000,
         "odds": 1.75
       },
       {
         "id": 2,
         "title": "Eastern Europe",
+        "chance": 32.27,
         "betting": 710000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 3,
         "title": "China",
+        "chance": 19.09,
         "betting": 420000,
-        "odds": 3.80
+        "odds": 3.8
       },
       {
         "id": 4,
         "title": "Americas",
+        "chance": 8.18,
         "betting": 180000,
-        "odds": 8.50
+        "odds": 8.5
       }
     ]
   },
@@ -1142,26 +1275,30 @@
       {
         "id": 1,
         "title": "Natus Vincere",
+        "chance": 25.95,
         "betting": 750000,
-        "odds": 3.20
+        "odds": 3.2
       },
       {
         "id": 2,
         "title": "FaZe Clan",
+        "chance": 23.53,
         "betting": 680000,
-        "odds": 3.60
+        "odds": 3.6
       },
       {
         "id": 3,
         "title": "Team Vitality",
+        "chance": 21.45,
         "betting": 620000,
-        "odds": 4.00
+        "odds": 4.0
       },
       {
         "id": 4,
         "title": "Other Team",
+        "chance": 29.07,
         "betting": 840000,
-        "odds": 2.20
+        "odds": 2.2
       }
     ]
   },
@@ -1174,26 +1311,30 @@
       {
         "id": 1,
         "title": "VCT Pacific",
+        "chance": 30.71,
         "betting": 820000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 2,
         "title": "VCT Americas",
+        "chance": 29.59,
         "betting": 790000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 3,
         "title": "VCT EMEA",
+        "chance": 22.85,
         "betting": 610000,
-        "odds": 2.90
+        "odds": 2.9
       },
       {
         "id": 4,
         "title": "VCT CN (China)",
+        "chance": 16.85,
         "betting": 450000,
-        "odds": 4.10
+        "odds": 4.1
       }
     ]
   },
@@ -1206,26 +1347,30 @@
       {
         "id": 1,
         "title": "Falcons Esports",
+        "chance": 33.82,
         "betting": 920000,
-        "odds": 2.00
+        "odds": 2.0
       },
       {
         "id": 2,
         "title": "Team Liquid",
+        "chance": 28.68,
         "betting": 780000,
-        "odds": 2.40
+        "odds": 2.4
       },
       {
         "id": 3,
         "title": "T1",
+        "chance": 19.85,
         "betting": 540000,
-        "odds": 3.50
+        "odds": 3.5
       },
       {
         "id": 4,
         "title": "G2 Esports",
+        "chance": 17.65,
         "betting": 480000,
-        "odds": 4.00
+        "odds": 4.0
       }
     ]
   },
@@ -1238,26 +1383,30 @@
       {
         "id": 1,
         "title": "TSM",
+        "chance": 26.42,
         "betting": 510000,
-        "odds": 2.80
+        "odds": 2.8
       },
       {
         "id": 2,
         "title": "DarkZero",
+        "chance": 25.39,
         "betting": 490000,
-        "odds": 3.00
+        "odds": 3.0
       },
       {
         "id": 3,
         "title": "Alliance",
+        "chance": 16.06,
         "betting": 310000,
-        "odds": 4.50
+        "odds": 4.5
       },
       {
         "id": 4,
         "title": "Other Squad",
+        "chance": 32.12,
         "betting": 620000,
-        "odds": 2.00
+        "odds": 2.0
       }
     ]
   },
@@ -1270,20 +1419,23 @@
       {
         "id": 1,
         "title": "Philippines (MPL PH Team)",
+        "chance": 53.24,
         "betting": 1150000,
         "odds": 1.45
       },
       {
         "id": 2,
         "title": "Indonesia (MPL ID Team)",
+        "chance": 37.96,
         "betting": 820000,
-        "odds": 2.50
+        "odds": 2.5
       },
       {
         "id": 3,
         "title": "Other Region Team",
+        "chance": 8.8,
         "betting": 190000,
-        "odds": 9.00
+        "odds": 9.0
       }
     ]
   },
@@ -1296,26 +1448,30 @@
       {
         "id": 1,
         "title": "Karmine Corp",
+        "chance": 30.53,
         "betting": 580000,
-        "odds": 2.50
+        "odds": 2.5
       },
       {
         "id": 2,
         "title": "G2 Stride",
+        "chance": 27.37,
         "betting": 520000,
-        "odds": 2.80
+        "odds": 2.8
       },
       {
         "id": 3,
         "title": "Team BDS",
+        "chance": 21.58,
         "betting": 410000,
-        "odds": 3.60
+        "odds": 3.6
       },
       {
         "id": 4,
         "title": "Other Team",
+        "chance": 20.53,
         "betting": 390000,
-        "odds": 3.80
+        "odds": 3.8
       }
     ]
   },
@@ -1328,26 +1484,30 @@
       {
         "id": 1,
         "title": "Japan",
+        "chance": 46.19,
         "betting": 910000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 2,
         "title": "United States",
+        "chance": 24.37,
         "betting": 480000,
-        "odds": 3.00
+        "odds": 3.0
       },
       {
         "id": 3,
         "title": "Dominican Republic",
+        "chance": 16.24,
         "betting": 320000,
-        "odds": 4.50
+        "odds": 4.5
       },
       {
         "id": 4,
         "title": "Other Country",
+        "chance": 13.2,
         "betting": 260000,
-        "odds": 5.50
+        "odds": 5.5
       }
     ]
   },
@@ -1360,304 +1520,341 @@
       {
         "id": 1,
         "title": "Crazy Raccoon",
+        "chance": 45.4,
         "betting": 740000,
-        "odds": 1.80
+        "odds": 1.8
       },
       {
         "id": 2,
         "title": "Team Falcons",
+        "chance": 37.42,
         "betting": 610000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 3,
         "title": "Spacestation Gaming",
+        "chance": 17.18,
         "betting": 280000,
-        "odds": 5.00
+        "odds": 5.0
       }
     ]
   },
   {
     "id": 51,
     "title": "Which film category will take the #1 worldwide box office rank for 2026?",
-    "category": "Pop culture",
+    "category": "Culture",
     "resultRevealDate": "2027-01-31",
     "option": [
       {
         "id": 1,
         "title": "Marvel / DC Superhero Feature",
+        "chance": 34.85,
         "betting": 1150000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 2,
         "title": "Animated Sequel / Franchise",
+        "chance": 38.79,
         "betting": 1280000,
-        "odds": 1.90
+        "odds": 1.9
       },
       {
         "id": 3,
         "title": "Action / Sci-Fi Franchise Sequel",
+        "chance": 21.82,
         "betting": 720000,
-        "odds": 3.20
+        "odds": 3.2
       },
       {
         "id": 4,
         "title": "Original non-IP Film",
+        "chance": 4.55,
         "betting": 150000,
-        "odds": 15.00
+        "odds": 15.0
       }
     ]
   },
   {
     "id": 52,
     "title": "What will be the official Metacritic aggregate score for GTA VI after 50+ reviews?",
-    "category": "Pop culture",
+    "category": "Culture",
     "resultRevealDate": "2026-12-15",
     "option": [
       {
         "id": 1,
         "title": "96 or Higher",
+        "chance": 55.69,
         "betting": 1420000,
-        "odds": 1.70
+        "odds": 1.7
       },
       {
         "id": 2,
         "title": "91 to 95",
+        "chance": 34.9,
         "betting": 890000,
-        "odds": 2.30
+        "odds": 2.3
       },
       {
         "id": 3,
         "title": "90 or Below",
+        "chance": 9.41,
         "betting": 240000,
-        "odds": 7.50
+        "odds": 7.5
       }
     ]
   },
   {
     "id": 53,
     "title": "What primary genre will win Best Picture at the 99th Academy Awards?",
-    "category": "Pop culture",
+    "category": "Culture",
     "resultRevealDate": "2027-03-28",
     "option": [
       {
         "id": 1,
         "title": "Historical Drama / Biopic",
+        "chance": 43.08,
         "betting": 840000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 2,
         "title": "Indie / Social Drama",
+        "chance": 35.38,
         "betting": 690000,
-        "odds": 2.50
+        "odds": 2.5
       },
       {
         "id": 3,
         "title": "Sci-Fi / Musical / Thriller",
+        "chance": 21.54,
         "betting": 420000,
-        "odds": 4.10
+        "odds": 4.1
       }
     ]
   },
   {
     "id": 54,
     "title": "Which genre will win Album of the Year at the 69th Annual Grammy Awards?",
-    "category": "Pop culture",
+    "category": "Culture",
     "resultRevealDate": "2027-02-10",
     "option": [
       {
         "id": 1,
         "title": "Pop / Dance",
+        "chance": 42.04,
         "betting": 950000,
         "odds": 1.85
       },
       {
         "id": 2,
         "title": "R&B / Hip-Hop",
+        "chance": 30.09,
         "betting": 680000,
-        "odds": 2.50
+        "odds": 2.5
       },
       {
         "id": 3,
         "title": "Country / Americana",
+        "chance": 18.14,
         "betting": 410000,
-        "odds": 4.20
+        "odds": 4.2
       },
       {
         "id": 4,
         "title": "Rock / Alternative",
+        "chance": 9.73,
         "betting": 220000,
-        "odds": 7.50
+        "odds": 7.5
       }
     ]
   },
   {
     "id": 55,
     "title": "Which game genre will claim GOTY at The Game Awards 2026?",
-    "category": "Pop culture",
+    "category": "Culture",
     "resultRevealDate": "2026-12-11",
     "option": [
       {
         "id": 1,
         "title": "Open World Action RPG",
+        "chance": 57.96,
         "betting": 1310000,
         "odds": 1.55
       },
       {
         "id": 2,
         "title": "Linear Action-Adventure",
+        "chance": 28.32,
         "betting": 640000,
-        "odds": 2.90
+        "odds": 2.9
       },
       {
         "id": 3,
         "title": "Indie Breakout Game",
+        "chance": 13.72,
         "betting": 310000,
-        "odds": 6.00
+        "odds": 6.0
       }
     ]
   },
   {
     "id": 56,
     "title": "Which release type will top the worldwide anime box office in 2026?",
-    "category": "Pop culture",
+    "category": "Culture",
     "resultRevealDate": "2027-01-15",
     "option": [
       {
         "id": 1,
         "title": "Shonen Manga Adaptation Feature",
+        "chance": 53.97,
         "betting": 1020000,
-        "odds": 1.50
+        "odds": 1.5
       },
       {
         "id": 2,
         "title": "Studio Ghibli Original Feature",
+        "chance": 30.69,
         "betting": 580000,
-        "odds": 2.60
+        "odds": 2.6
       },
       {
         "id": 3,
         "title": "Standalone Original Anime Movie",
+        "chance": 15.34,
         "betting": 290000,
-        "odds": 5.00
+        "odds": 5.0
       }
     ]
   },
   {
     "id": 57,
     "title": "Which music category will produce the #1 most streamed global track of 2026?",
-    "category": "Pop culture",
+    "category": "Culture",
     "resultRevealDate": "2026-12-05",
     "option": [
       {
         "id": 1,
         "title": "English Pop Solo Track",
+        "chance": 36.36,
         "betting": 880000,
-        "odds": 1.90
+        "odds": 1.9
       },
       {
         "id": 2,
         "title": "Latin / Reggaeton Track",
+        "chance": 29.34,
         "betting": 710000,
-        "odds": 2.30
+        "odds": 2.3
       },
       {
         "id": 3,
         "title": "Hip-Hop Collaboration",
+        "chance": 18.6,
         "betting": 450000,
-        "odds": 3.60
+        "odds": 3.6
       },
       {
         "id": 4,
         "title": "K-Pop Group Single",
+        "chance": 15.7,
         "betting": 380000,
-        "odds": 4.20
+        "odds": 4.2
       }
     ]
   },
   {
     "id": 58,
     "title": "Which distributor will air the 2027 Emmy winner for Best Drama Series?",
-    "category": "Pop culture",
+    "category": "Culture",
     "resultRevealDate": "2027-09-20",
     "option": [
       {
         "id": 1,
         "title": "HBO / Max",
+        "chance": 39.5,
         "betting": 940000,
-        "odds": 1.80
+        "odds": 1.8
       },
       {
         "id": 2,
         "title": "Netflix",
+        "chance": 30.25,
         "betting": 720000,
-        "odds": 2.30
+        "odds": 2.3
       },
       {
         "id": 3,
         "title": "Apple TV+",
+        "chance": 21.43,
         "betting": 510000,
-        "odds": 3.20
+        "odds": 3.2
       },
       {
         "id": 4,
         "title": "Other Network / Platform",
+        "chance": 8.82,
         "betting": 210000,
-        "odds": 8.00
+        "odds": 8.0
       }
     ]
   },
   {
     "id": 59,
     "title": "Which literary genre will log the most aggregate weeks at #1 on the NYT Hardcover Fiction list in 2026?",
-    "category": "Pop culture",
+    "category": "Culture",
     "resultRevealDate": "2026-12-31",
     "option": [
       {
         "id": 1,
         "title": "Romantasy / Fantasy",
+        "chance": 57.89,
         "betting": 1100000,
         "odds": 1.45
       },
       {
         "id": 2,
         "title": "Psychological Thriller",
+        "chance": 27.37,
         "betting": 520000,
-        "odds": 2.80
+        "odds": 2.8
       },
       {
         "id": 3,
         "title": "Literary Contemporary Drama",
+        "chance": 14.74,
         "betting": 280000,
-        "odds": 5.20
+        "odds": 5.2
       }
     ]
   },
   {
     "id": 60,
     "title": "Total combined theatrical box office of all MCU and DCU superhero releases in 2026.",
-    "category": "Pop culture",
+    "category": "Culture",
     "resultRevealDate": "2027-01-31",
     "option": [
       {
         "id": 1,
         "title": "Exceed $2.5 Billion",
+        "chance": 38.24,
         "betting": 780000,
-        "odds": 2.00
+        "odds": 2.0
       },
       {
         "id": 2,
         "title": "$1.5B to $2.5B",
+        "chance": 45.1,
         "betting": 920000,
         "odds": 1.65
       },
       {
         "id": 3,
         "title": "Under $1.5 Billion",
+        "chance": 16.67,
         "betting": 340000,
-        "odds": 4.50
+        "odds": 4.5
       }
     ]
   },
@@ -1670,12 +1867,14 @@
       {
         "id": 1,
         "title": "Approved by Dec 2027",
+        "chance": 40.67,
         "betting": 610000,
-        "odds": 2.40
+        "odds": 2.4
       },
       {
         "id": 2,
         "title": "Not Approved by Dec 2027",
+        "chance": 59.33,
         "betting": 890000,
         "odds": 1.55
       }
@@ -1690,20 +1889,23 @@
       {
         "id": 1,
         "title": "Positive Primary Endpoint Met",
+        "chance": 62.57,
         "betting": 1120000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 2,
         "title": "Inconclusive / Endpoint Extended",
+        "chance": 23.46,
         "betting": 420000,
-        "odds": 3.50
+        "odds": 3.5
       },
       {
         "id": 3,
         "title": "Failed Primary Endpoint",
+        "chance": 13.97,
         "betting": 250000,
-        "odds": 5.80
+        "odds": 5.8
       }
     ]
   },
@@ -1716,20 +1918,23 @@
       {
         "id": 1,
         "title": "Exceed $50 Billion",
+        "chance": 59.81,
         "betting": 1250000,
         "odds": 1.45
       },
       {
         "id": 2,
         "title": "$35B to $50B",
+        "chance": 31.1,
         "betting": 650000,
-        "odds": 2.30
+        "odds": 2.3
       },
       {
         "id": 3,
         "title": "Below $35 Billion",
+        "chance": 9.09,
         "betting": 190000,
-        "odds": 7.50
+        "odds": 7.5
       }
     ]
   },
@@ -1742,12 +1947,14 @@
       {
         "id": 1,
         "title": "Yes, Declared",
+        "chance": 35.62,
         "betting": 520000,
-        "odds": 2.70
+        "odds": 2.7
       },
       {
         "id": 2,
         "title": "No Declaration",
+        "chance": 64.38,
         "betting": 940000,
         "odds": 1.45
       }
@@ -1762,12 +1969,14 @@
       {
         "id": 1,
         "title": "Adopted as Standard Care",
+        "chance": 56.12,
         "betting": 780000,
         "odds": 1.75
       },
       {
         "id": 2,
         "title": "Secondary / Experimental Only",
+        "chance": 43.88,
         "betting": 610000,
         "odds": 2.05
       }
@@ -1782,20 +1991,23 @@
       {
         "id": 1,
         "title": "2 or More New Approvals",
+        "chance": 23.56,
         "betting": 410000,
-        "odds": 3.10
+        "odds": 3.1
       },
       {
         "id": 2,
         "title": "1 New Approval",
+        "chance": 48.85,
         "betting": 850000,
         "odds": 1.75
       },
       {
         "id": 3,
         "title": "0 New Approvals",
+        "chance": 27.59,
         "betting": 480000,
-        "odds": 2.80
+        "odds": 2.8
       }
     ]
   },
@@ -1808,14 +2020,16 @@
       {
         "id": 1,
         "title": "Yes, Approved",
+        "chance": 48.55,
         "betting": 670000,
-        "odds": 2.00
+        "odds": 2.0
       },
       {
         "id": 2,
         "title": "No Approval",
+        "chance": 51.45,
         "betting": 710000,
-        "odds": 1.80
+        "odds": 1.8
       }
     ]
   },
@@ -1828,20 +2042,23 @@
       {
         "id": 1,
         "title": "Full Success Met",
+        "chance": 33.97,
         "betting": 530000,
-        "odds": 2.40
+        "odds": 2.4
       },
       {
         "id": 2,
         "title": "Partial / Mixed Safety Results",
+        "chance": 46.15,
         "betting": 720000,
         "odds": 1.85
       },
       {
         "id": 3,
         "title": "Trial Delayed or Failed",
+        "chance": 19.87,
         "betting": 310000,
-        "odds": 4.10
+        "odds": 4.1
       }
     ]
   },
@@ -1854,12 +2071,14 @@
       {
         "id": 1,
         "title": "Approved for Public Use",
+        "chance": 62.24,
         "betting": 890000,
         "odds": 1.65
       },
       {
         "id": 2,
         "title": "Delayed or Rejected",
+        "chance": 37.76,
         "betting": 540000,
         "odds": 2.25
       }
@@ -1874,20 +2093,23 @@
       {
         "id": 1,
         "title": "Exceed 200 Million",
+        "chance": 41.82,
         "betting": 690000,
-        "odds": 1.90
+        "odds": 1.9
       },
       {
         "id": 2,
         "title": "120M to 200M",
+        "chance": 44.85,
         "betting": 740000,
-        "odds": 1.80
+        "odds": 1.8
       },
       {
         "id": 3,
         "title": "Under 120 Million",
+        "chance": 13.33,
         "betting": 220000,
-        "odds": 5.50
+        "odds": 5.5
       }
     ]
   },
@@ -1900,26 +2122,30 @@
       {
         "id": 1,
         "title": "OpenAI",
+        "chance": 40.89,
         "betting": 1280000,
-        "odds": 1.80
+        "odds": 1.8
       },
       {
         "id": 2,
         "title": "Google DeepMind",
+        "chance": 33.55,
         "betting": 1050000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 3,
         "title": "Anthropic",
+        "chance": 18.85,
         "betting": 590000,
-        "odds": 3.60
+        "odds": 3.6
       },
       {
         "id": 4,
         "title": "Open Source Consortium",
+        "chance": 6.71,
         "betting": 210000,
-        "odds": 9.00
+        "odds": 9.0
       }
     ]
   },
@@ -1932,20 +2158,23 @@
       {
         "id": 1,
         "title": "Over 500,000 / day",
+        "chance": 39.61,
         "betting": 820000,
         "odds": 1.95
       },
       {
         "id": 2,
         "title": "200,000 to 500,000 / day",
+        "chance": 45.41,
         "betting": 940000,
-        "odds": 1.70
+        "odds": 1.7
       },
       {
         "id": 3,
         "title": "Under 200,000 / day",
+        "chance": 14.98,
         "betting": 310000,
-        "odds": 4.20
+        "odds": 4.2
       }
     ]
   },
@@ -1958,20 +2187,23 @@
       {
         "id": 1,
         "title": "Verified Success",
+        "chance": 34.64,
         "betting": 620000,
-        "odds": 2.30
+        "odds": 2.3
       },
       {
         "id": 2,
         "title": "Contested Claim",
+        "chance": 43.58,
         "betting": 780000,
-        "odds": 1.80
+        "odds": 1.8
       },
       {
         "id": 3,
         "title": "No Breakthrough Claim",
+        "chance": 21.79,
         "betting": 390000,
-        "odds": 3.50
+        "odds": 3.5
       }
     ]
   },
@@ -1984,20 +2216,23 @@
       {
         "id": 1,
         "title": "Above 70% Yield",
+        "chance": 49.72,
         "betting": 880000,
-        "odds": 1.70
+        "odds": 1.7
       },
       {
         "id": 2,
         "title": "50% to 70% Yield",
+        "chance": 36.72,
         "betting": 650000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 3,
         "title": "Below 50% Yield",
+        "chance": 13.56,
         "betting": 240000,
-        "odds": 5.00
+        "odds": 5.0
       }
     ]
   },
@@ -2010,20 +2245,23 @@
       {
         "id": 1,
         "title": "Over 10,000 Units",
+        "chance": 35.15,
         "betting": 710000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 2,
         "title": "2,000 to 10,000 Units",
+        "chance": 46.04,
         "betting": 930000,
         "odds": 1.65
       },
       {
         "id": 3,
         "title": "Under 2,000 Units",
+        "chance": 18.81,
         "betting": 380000,
-        "odds": 3.80
+        "odds": 3.8
       }
     ]
   },
@@ -2036,20 +2274,23 @@
       {
         "id": 1,
         "title": "Over 10 Minutes",
+        "chance": 18.45,
         "betting": 310000,
-        "odds": 4.50
+        "odds": 4.5
       },
       {
         "id": 2,
         "title": "1 to 10 Minutes",
+        "chance": 42.86,
         "betting": 720000,
-        "odds": 1.90
+        "odds": 1.9
       },
       {
         "id": 3,
         "title": "Under 1 Minute",
+        "chance": 38.69,
         "betting": 650000,
-        "odds": 2.10
+        "odds": 2.1
       }
     ]
   },
@@ -2062,20 +2303,23 @@
       {
         "id": 1,
         "title": "Over 2.0 Million Units",
+        "chance": 30.85,
         "betting": 580000,
-        "odds": 2.50
+        "odds": 2.5
       },
       {
         "id": 2,
         "title": "1.0M to 2.0M Units",
+        "chance": 47.34,
         "betting": 890000,
-        "odds": 1.70
+        "odds": 1.7
       },
       {
         "id": 3,
         "title": "Under 1.0 Million Units",
+        "chance": 21.81,
         "betting": 410000,
-        "odds": 3.40
+        "odds": 3.4
       }
     ]
   },
@@ -2088,20 +2332,23 @@
       {
         "id": 1,
         "title": "Exceed $300 Billion",
+        "chance": 59.0,
         "betting": 1180000,
-        "odds": 1.50
+        "odds": 1.5
       },
       {
         "id": 2,
         "title": "$200B to $300B",
+        "chance": 32.0,
         "betting": 640000,
-        "odds": 2.30
+        "odds": 2.3
       },
       {
         "id": 3,
         "title": "Under $200 Billion",
+        "chance": 9.0,
         "betting": 180000,
-        "odds": 8.00
+        "odds": 8.0
       }
     ]
   },
@@ -2114,20 +2361,23 @@
       {
         "id": 1,
         "title": "Released in Theaters",
+        "chance": 26.49,
         "betting": 490000,
-        "odds": 2.80
+        "odds": 2.8
       },
       {
         "id": 2,
         "title": "Announced but Delayed",
+        "chance": 32.97,
         "betting": 610000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 3,
         "title": "Not Released",
+        "chance": 40.54,
         "betting": 750000,
-        "odds": 1.80
+        "odds": 1.8
       }
     ]
   },
@@ -2140,20 +2390,23 @@
       {
         "id": 1,
         "title": "Exceed 10 Million",
+        "chance": 54.12,
         "betting": 1050000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 2,
         "title": "6M to 10 Million",
+        "chance": 35.05,
         "betting": 680000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 3,
         "title": "Under 6 Million",
+        "chance": 10.82,
         "betting": 210000,
-        "odds": 5.50
+        "odds": 5.5
       }
     ]
   },
@@ -2166,20 +2419,23 @@
       {
         "id": 1,
         "title": "Exceed +1.50°C",
+        "chance": 56.93,
         "betting": 1150000,
         "odds": 1.55
       },
       {
         "id": 2,
         "title": "+1.30°C to +1.50°C",
+        "chance": 34.16,
         "betting": 690000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 3,
         "title": "Below +1.30°C",
+        "chance": 8.91,
         "betting": 180000,
-        "odds": 7.80
+        "odds": 7.8
       }
     ]
   },
@@ -2192,20 +2448,23 @@
       {
         "id": 1,
         "title": "Above 20 Storms",
+        "chance": 38.14,
         "betting": 740000,
-        "odds": 2.00
+        "odds": 2.0
       },
       {
         "id": 2,
         "title": "14 to 20 Storms",
+        "chance": 47.42,
         "betting": 920000,
         "odds": 1.65
       },
       {
         "id": 3,
         "title": "Below 14 Storms",
+        "chance": 14.43,
         "betting": 280000,
-        "odds": 4.50
+        "odds": 4.5
       }
     ]
   },
@@ -2218,20 +2477,23 @@
       {
         "id": 1,
         "title": "Over 36.0%",
+        "chance": 49.17,
         "betting": 890000,
-        "odds": 1.70
+        "odds": 1.7
       },
       {
         "id": 2,
         "title": "31.0% to 36.0%",
+        "chance": 39.23,
         "betting": 710000,
-        "odds": 2.00
+        "odds": 2.0
       },
       {
         "id": 3,
         "title": "Below 31.0%",
+        "chance": 11.6,
         "betting": 210000,
-        "odds": 5.50
+        "odds": 5.5
       }
     ]
   },
@@ -2244,20 +2506,23 @@
       {
         "id": 1,
         "title": "Record Low (<3.3M sq km)",
+        "chance": 35.26,
         "betting": 610000,
-        "odds": 2.30
+        "odds": 2.3
       },
       {
         "id": 2,
         "title": "Near Average (3.3M-4.3M sq km)",
+        "chance": 50.87,
         "betting": 880000,
         "odds": 1.65
       },
       {
         "id": 3,
         "title": "Above Average (>4.3M sq km)",
+        "chance": 13.87,
         "betting": 240000,
-        "odds": 5.00
+        "odds": 5.0
       }
     ]
   },
@@ -2270,12 +2535,14 @@
       {
         "id": 1,
         "title": "Yes, Binding Treaty",
+        "chance": 25.33,
         "betting": 380000,
-        "odds": 3.60
+        "odds": 3.6
       },
       {
         "id": 2,
         "title": "No Binding Agreement",
+        "chance": 74.67,
         "betting": 1120000,
         "odds": 1.35
       }
@@ -2290,20 +2557,23 @@
       {
         "id": 1,
         "title": "Over 25.0%",
+        "chance": 38.24,
         "betting": 780000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 2,
         "title": "20.0% to 25.0%",
+        "chance": 46.57,
         "betting": 950000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 3,
         "title": "Below 20.0%",
+        "chance": 15.2,
         "betting": 310000,
-        "odds": 4.10
+        "odds": 4.1
       }
     ]
   },
@@ -2316,20 +2586,23 @@
       {
         "id": 1,
         "title": "La Niña Active",
+        "chance": 38.5,
         "betting": 720000,
-        "odds": 1.90
+        "odds": 1.9
       },
       {
         "id": 2,
         "title": "El Niño Active",
+        "chance": 27.27,
         "betting": 510000,
-        "odds": 2.60
+        "odds": 2.6
       },
       {
         "id": 3,
         "title": "Neutral Phase",
+        "chance": 34.22,
         "betting": 640000,
-        "odds": 2.10
+        "odds": 2.1
       }
     ]
   },
@@ -2342,20 +2615,23 @@
       {
         "id": 1,
         "title": "Exceed 3.0 Million Tons",
+        "chance": 33.33,
         "betting": 580000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 2,
         "title": "1.0M to 3.0 Million Tons",
+        "chance": 47.13,
         "betting": 820000,
-        "odds": 1.70
+        "odds": 1.7
       },
       {
         "id": 3,
         "title": "Under 1.0 Million Tons",
+        "chance": 19.54,
         "betting": 340000,
-        "odds": 3.80
+        "odds": 3.8
       }
     ]
   },
@@ -2368,20 +2644,23 @@
       {
         "id": 1,
         "title": "Decreased by >20%",
+        "chance": 46.29,
         "betting": 810000,
         "odds": 1.75
       },
       {
         "id": 2,
         "title": "Decreased by 0% to 20%",
+        "chance": 37.14,
         "betting": 650000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 3,
         "title": "Increased Deforestation",
+        "chance": 16.57,
         "betting": 290000,
-        "odds": 4.50
+        "odds": 4.5
       }
     ]
   },
@@ -2394,20 +2673,23 @@
       {
         "id": 1,
         "title": "Over 600 GW",
+        "chance": 50.27,
         "betting": 940000,
         "odds": 1.65
       },
       {
         "id": 2,
         "title": "450 GW to 600 GW",
+        "chance": 37.97,
         "betting": 710000,
         "odds": 2.05
       },
       {
         "id": 3,
         "title": "Below 450 GW",
+        "chance": 11.76,
         "betting": 220000,
-        "odds": 5.20
+        "odds": 5.2
       }
     ]
   },
@@ -2420,20 +2702,23 @@
       {
         "id": 1,
         "title": "Above $100 / barrel",
+        "chance": 28.31,
         "betting": 620000,
-        "odds": 2.40
+        "odds": 2.4
       },
       {
         "id": 2,
         "title": "$80 to $100 / barrel",
+        "chance": 52.51,
         "betting": 1150000,
         "odds": 1.55
       },
       {
         "id": 3,
         "title": "Below $80 / barrel",
+        "chance": 19.18,
         "betting": 420000,
-        "odds": 3.60
+        "odds": 3.6
       }
     ]
   },
@@ -2446,20 +2731,23 @@
       {
         "id": 1,
         "title": "Exceed $3,000 / oz",
+        "chance": 57.14,
         "betting": 1280000,
         "odds": 1.65
       },
       {
         "id": 2,
         "title": "$2,600 to $3,000 / oz",
+        "chance": 33.48,
         "betting": 750000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 3,
         "title": "Below $2,600 / oz",
+        "chance": 9.38,
         "betting": 210000,
-        "odds": 5.80
+        "odds": 5.8
       }
     ]
   },
@@ -2472,20 +2760,23 @@
       {
         "id": 1,
         "title": "Rise by >30%",
+        "chance": 28.73,
         "betting": 520000,
-        "odds": 2.50
+        "odds": 2.5
       },
       {
         "id": 2,
         "title": "Stable (-10% to +30%)",
+        "chance": 50.28,
         "betting": 910000,
         "odds": 1.65
       },
       {
         "id": 3,
         "title": "Fall by >10%",
+        "chance": 20.99,
         "betting": 380000,
-        "odds": 3.80
+        "odds": 3.8
       }
     ]
   },
@@ -2498,20 +2789,23 @@
       {
         "id": 1,
         "title": "Record High (>800M Metric Tons)",
+        "chance": 32.11,
         "betting": 610000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 2,
         "title": "Normal Range (760M-800M MT)",
+        "chance": 51.58,
         "betting": 980000,
         "odds": 1.55
       },
       {
         "id": 3,
         "title": "Shortage (<760M Metric Tons)",
+        "chance": 16.32,
         "betting": 310000,
-        "odds": 4.10
+        "odds": 4.1
       }
     ]
   },
@@ -2524,20 +2818,23 @@
       {
         "id": 1,
         "title": "Over $12,000 / MT",
+        "chance": 41.84,
         "betting": 820000,
         "odds": 1.85
       },
       {
         "id": 2,
         "title": "$9,500 to $12,000 / MT",
+        "chance": 45.41,
         "betting": 890000,
-        "odds": 1.70
+        "odds": 1.7
       },
       {
         "id": 3,
         "title": "Below $9,500 / MT",
+        "chance": 12.76,
         "betting": 250000,
-        "odds": 4.80
+        "odds": 4.8
       }
     ]
   },
@@ -2550,20 +2847,23 @@
       {
         "id": 1,
         "title": "Above €60 / MWh",
+        "chance": 27.22,
         "betting": 490000,
-        "odds": 2.60
+        "odds": 2.6
       },
       {
         "id": 2,
         "title": "€40 to €60 / MWh",
+        "chance": 52.78,
         "betting": 950000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 3,
         "title": "Below €40 / MWh",
+        "chance": 20.0,
         "betting": 360000,
-        "odds": 3.90
+        "odds": 3.9
       }
     ]
   },
@@ -2576,20 +2876,23 @@
       {
         "id": 1,
         "title": "Above $40 / oz",
+        "chance": 40.31,
         "betting": 790000,
         "odds": 1.95
       },
       {
         "id": 2,
         "title": "$30 to $40 / oz",
+        "chance": 44.9,
         "betting": 880000,
-        "odds": 1.70
+        "odds": 1.7
       },
       {
         "id": 3,
         "title": "Below $30 / oz",
+        "chance": 14.8,
         "betting": 290000,
-        "odds": 4.50
+        "odds": 4.5
       }
     ]
   },
@@ -2602,20 +2905,23 @@
       {
         "id": 1,
         "title": "Exceed $120 / lb",
+        "chance": 45.65,
         "betting": 840000,
-        "odds": 1.80
+        "odds": 1.8
       },
       {
         "id": 2,
         "title": "$90 to $120 / lb",
+        "chance": 39.13,
         "betting": 720000,
-        "odds": 2.00
+        "odds": 2.0
       },
       {
         "id": 3,
         "title": "Below $90 / lb",
+        "chance": 15.22,
         "betting": 280000,
-        "odds": 4.50
+        "odds": 4.5
       }
     ]
   },
@@ -2628,20 +2934,23 @@
       {
         "id": 1,
         "title": "Increase >25%",
+        "chance": 35.36,
         "betting": 640000,
-        "odds": 2.20
+        "odds": 2.2
       },
       {
         "id": 2,
         "title": "Moderate Change (-15% to +25%)",
+        "chance": 46.96,
         "betting": 850000,
         "odds": 1.65
       },
       {
         "id": 3,
         "title": "Decrease >15%",
+        "chance": 17.68,
         "betting": 320000,
-        "odds": 4.00
+        "odds": 4.0
       }
     ]
   },
@@ -2654,20 +2963,23 @@
       {
         "id": 1,
         "title": "Over 450 Million Barrels",
+        "chance": 36.79,
         "betting": 710000,
-        "odds": 2.10
+        "odds": 2.1
       },
       {
         "id": 2,
         "title": "380M to 450 Million Barrels",
+        "chance": 48.7,
         "betting": 940000,
-        "odds": 1.60
+        "odds": 1.6
       },
       {
         "id": 3,
         "title": "Under 380 Million Barrels",
+        "chance": 14.51,
         "betting": 280000,
-        "odds": 4.50
+        "odds": 4.5
       }
     ]
   }
